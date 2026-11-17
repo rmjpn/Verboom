@@ -52,7 +52,7 @@ App gamificado de conjugação verbal do português (PRD em `docs/PRD-VerboDex.p
 |---|---|---|
 | `src/types/grammar.ts` | Contrato central de tipos | Mudanças precisam ser coordenadas |
 | `src/engine/` | Motor puro TS: `conjugator`, `morphemeParser`, `spacedRepetition` | **Sem imports de React/React Native/Expo.** Testes com `node:test` (`*.test.ts`) |
-| `src/data/` | Léxico curado (`verbs.json` + `lexicon.ts`) | Definições e frases **originais** (nunca copiar dicionários protegidos) |
+| `src/data/` | Léxico curado (`verbs.level1-4.json` + `lexicon.ts`) | Definições e frases **originais** (nunca copiar dicionários protegidos) |
 | `src/storage/` | Persistência de progresso: `progressRepo.ts` (SQLite nativo) e `progressRepo.web.ts` (localStorage) | Mesma interface nas duas plataformas |
 | `src/state/` | `GameProvider` + `useGame()` (contrato em `state/types.ts`) | |
 | `src/components/`, `src/screens/`, `src/app/` | UI (NativeWind) — rotas em `src/app/` | Telas grandes ficam em `src/screens/`, rotas só as importam |
@@ -66,6 +66,7 @@ Tokens em `tailwind.config.js` e `src/theme/tokens.ts`: papel `#FDFCF8`, pauta `
 ```bash
 npm test             # testes do motor (node:test + tsx)
 npm run typecheck    # tsc --noEmit
+npm run lint         # ESLint (expo lint)
 npm run export:web   # build web estático em dist/
 ```
 

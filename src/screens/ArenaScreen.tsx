@@ -51,6 +51,8 @@ export function ArenaScreen() {
     startedRef.current = true;
     try {
       const c = game.startEncounter({ advanced: game.settings.advancedMode });
+      // Inicialização única (guardada por ref) que depende do provider estar pronto.
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setChallenge(c);
       setPhase(c ? 'playing' : 'empty');
     } catch (e) {
@@ -156,7 +158,14 @@ export function ArenaScreen() {
             {/* topo: fechar + vidas */}
             <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
               <Pressable
-                onPress={goBack}
+                onPress={() => {
+                  // Recuar no meio do encontro conta como "deixar passar": evita re-sortear o tempo verbal.
+                  if (playing && !finishedRef.current) {
+                    finishedRef.current = true;
+                    game.skip();
+                  }
+                  goBack();
+                }}
                 accessibilityRole="button"
                 accessibilityLabel="Recuar e voltar à caça"
                 hitSlop={6}

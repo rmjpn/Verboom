@@ -6,9 +6,12 @@ import { colors, fonts } from '../../theme/tokens';
 type IconName = keyof typeof MaterialCommunityIcons.glyphMap;
 
 function icon(name: IconName, focusedName: IconName) {
-  return ({ color, focused, size }: { color: ColorValue; focused: boolean; size: number }) => (
-    <MaterialCommunityIcons name={focused ? focusedName : name} size={size} color={typeof color === 'string' ? color : colors.inkSoft} />
-  );
+  function TabIcon({ color, focused, size }: { color: ColorValue; focused: boolean; size: number }) {
+    return (
+      <MaterialCommunityIcons name={focused ? focusedName : name} size={size} color={typeof color === 'string' ? color : colors.inkSoft} />
+    );
+  }
+  return TabIcon;
 }
 
 export default function TabsLayout() {

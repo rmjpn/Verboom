@@ -33,6 +33,7 @@ npm install
 npm start            # Expo Dev Server (a = Android, w = web)
 npm test             # testes do motor morfológico, SRS e léxico
 npm run typecheck
+npm run lint
 npm run export:web   # site estático em dist/
 ```
 

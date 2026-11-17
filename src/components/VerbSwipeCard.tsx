@@ -58,12 +58,14 @@ export function VerbSwipeCard({ verb, isReview, onSwipeRight, onSwipeLeft, disab
   const flingTo = useCallback(
     (dir: 1 | -1) => {
       if (gone.value || disabled) return;
-      gone.value = true;
+      gone.set(true);
       hapticImpact();
-      ty.value = withTiming(-30, { duration: 280 });
-      tx.value = withTiming(dir * flyOut, { duration: 280 }, (finished) => {
-        if (finished) scheduleOnRN(finish, dir);
-      });
+      ty.set(withTiming(-30, { duration: 280 }));
+      tx.set(
+        withTiming(dir * flyOut, { duration: 280 }, (finished) => {
+          if (finished) scheduleOnRN(finish, dir);
+        }),
+      );
     },
     [disabled, finish, flyOut, gone, tx, ty],
   );
@@ -74,8 +76,8 @@ export function VerbSwipeCard({ verb, isReview, onSwipeRight, onSwipeLeft, disab
     onUpdate: (e) => {
       'worklet';
       if (gone.value) return;
-      tx.value = e.translationX;
-      ty.value = e.translationY * 0.35;
+      tx.set(e.translationX);
+      ty.set(e.translationY * 0.35);
     },
     onDeactivate: (e) => {
       'worklet';
@@ -83,15 +85,17 @@ export function VerbSwipeCard({ verb, isReview, onSwipeRight, onSwipeLeft, disab
       const fast = Math.abs(e.velocityX) > 850 && Math.sign(e.velocityX) === Math.sign(e.translationX);
       if (Math.abs(e.translationX) > threshold || (fast && Math.abs(e.translationX) > 24)) {
         const dir = e.translationX > 0 ? 1 : -1;
-        gone.value = true;
+        gone.set(true);
         const duration = Math.max(160, Math.min(320, 260000 / Math.max(Math.abs(e.velocityX), 800)));
-        ty.value = withTiming(ty.value + e.velocityY * 0.08, { duration });
-        tx.value = withTiming(dir * flyOut, { duration }, (finished) => {
-          if (finished) scheduleOnRN(finish, dir);
-        });
+        ty.set(withTiming(ty.value + e.velocityY * 0.08, { duration }));
+        tx.set(
+          withTiming(dir * flyOut, { duration }, (finished) => {
+            if (finished) scheduleOnRN(finish, dir);
+          }),
+        );
       } else {
-        tx.value = withSpring(0, { damping: 14, stiffness: 160 });
-        ty.value = withSpring(0, { damping: 14, stiffness: 160 });
+        tx.set(withSpring(0, { damping: 14, stiffness: 160 }));
+        ty.set(withSpring(0, { damping: 14, stiffness: 160 }));
       }
     },
   });

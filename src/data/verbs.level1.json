@@ -3017,26 +3017,6 @@
     ]
   },
   {
-    "id": "escrever",
-    "infinitive": "escrever",
-    "conjugation": 2,
-    "flexion": "regular",
-    "rarity": "comum",
-    "level": 1,
-    "definition": "Representar palavras e ideias por meio de letras e sinais.",
-    "transitivity": "transitivo direto, intransitivo e transitivo direto e indireto",
-    "synonyms": [
-      "redigir",
-      "grafar",
-      "anotar"
-    ],
-    "examples": [
-      "Escrevo no diário antes de dormir.",
-      "Ela escreveu uma carta para a avó.",
-      "Escreveremos a redação em dupla."
-    ]
-  },
-  {
     "id": "viver",
     "infinitive": "viver",
     "conjugation": 2,
@@ -3657,46 +3637,6 @@
     ]
   },
   {
-    "id": "descrever",
-    "infinitive": "descrever",
-    "conjugation": 2,
-    "flexion": "regular",
-    "rarity": "comum",
-    "level": 1,
-    "definition": "Representar algo em palavras, detalhando suas características.",
-    "transitivity": "transitivo direto",
-    "synonyms": [
-      "retratar",
-      "relatar",
-      "explicar"
-    ],
-    "examples": [
-      "Descreva o lugar onde você mora.",
-      "A testemunha descreveu o carro.",
-      "O autor descrevia as paisagens com cuidado."
-    ]
-  },
-  {
-    "id": "inscrever",
-    "infinitive": "inscrever",
-    "conjugation": 2,
-    "flexion": "regular",
-    "rarity": "comum",
-    "level": 1,
-    "definition": "Registrar o nome de alguém em uma lista; matricular.",
-    "transitivity": "transitivo direto e pronominal",
-    "synonyms": [
-      "matricular",
-      "registrar",
-      "cadastrar"
-    ],
-    "examples": [
-      "Inscrevi-me no concurso de poesia.",
-      "Os pais inscreveram os filhos no torneio.",
-      "Inscreva seu nome na lista."
-    ]
-  },
-  {
     "id": "romper",
     "infinitive": "romper",
     "conjugation": 2,
@@ -4234,26 +4174,6 @@
       "Partimos de madrugada para a praia.",
       "Parta o bolo em oito pedaços.",
       "O trem partirá às nove em ponto."
-    ]
-  },
-  {
-    "id": "abrir",
-    "infinitive": "abrir",
-    "conjugation": 3,
-    "flexion": "regular",
-    "rarity": "comum",
-    "level": 1,
-    "definition": "Fazer com que algo deixe de estar fechado; também inaugurar.",
-    "transitivity": "transitivo direto, intransitivo e pronominal",
-    "synonyms": [
-      "destampar",
-      "descerrar",
-      "inaugurar"
-    ],
-    "examples": [
-      "Abra a janela, por favor.",
-      "A loja abriu uma filial no centro.",
-      "As flores se abriam com o sol."
     ]
   },
   {

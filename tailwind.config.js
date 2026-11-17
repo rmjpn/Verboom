@@ -2,6 +2,9 @@
 module.exports = {
   content: ['./src/**/*.{ts,tsx}'],
   presets: [require('nativewind/preset')],
+  // 'class' (e não o padrão 'media'): evita o erro "Cannot manually set color scheme" do
+  // react-native-css-interop no servidor de dev web. O app usa só o tema claro.
+  darkMode: 'class',
   theme: {
     extend: {
       colors: {

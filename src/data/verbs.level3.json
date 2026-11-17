@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "fazer",
+    "infinitive": "fazer",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Dar existência ou forma a algo; realizar uma ação.",
+    "transitivity": "transitivo direto, transitivo direto e indireto e impessoal",
+    "synonyms": [
+      "realizar",
+      "produzir",
+      "executar"
+    ],
+    "examples": [
+      "Fiz o dever de casa antes do jantar.",
+      "Faz muito calor no Rio em janeiro.",
+      "Se você fizer o bolo, eu faço o suco."
+    ]
+  },
+  {
+    "id": "dizer",
+    "infinitive": "dizer",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Expressar algo por meio de palavras.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "falar",
+      "afirmar",
+      "declarar"
+    ],
+    "examples": [
+      "Digo sempre a verdade.",
+      "Ela disse que viria mais tarde.",
+      "Diga-me o que você pensa."
+    ]
+  },
+  {
+    "id": "trazer",
+    "infinitive": "trazer",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Levar algo ou alguém para o lugar onde está quem fala.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "levar",
+      "conduzir",
+      "transportar"
+    ],
+    "examples": [
+      "Trouxe um presente para você.",
+      "Traga seu caderno amanhã.",
+      "Eles trarão sobremesa para o almoço."
+    ]
+  },
+  {
+    "id": "poder",
+    "infinitive": "poder",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Ter a capacidade, a permissão ou a possibilidade de fazer algo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "conseguir",
+      "ser capaz de",
+      "ter permissão para"
+    ],
+    "examples": [
+      "Posso abrir a janela?",
+      "Ontem não pude ir à aula.",
+      "Se pudéssemos, viajaríamos todo mês."
+    ]
+  },
+  {
+    "id": "querer",
+    "infinitive": "querer",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Ter vontade ou desejo de algo.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "desejar",
+      "pretender",
+      "almejar"
+    ],
+    "examples": [
+      "Quero aprender a tocar violão.",
+      "Ela quis ajudar, mas não sabia como.",
+      "Se você quiser, podemos estudar juntos."
+    ]
+  },
+  {
+    "id": "saber",
+    "infinitive": "saber",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Ter conhecimento ou informação sobre algo; também ter certo gosto.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "conhecer",
+      "entender",
+      "dominar"
+    ],
+    "examples": [
+      "Sei a tabuada do sete de cor.",
+      "Soubemos da notícia pelo rádio.",
+      "Saiba que estamos orgulhosos de você."
+    ]
+  },
+  {
+    "id": "caber",
+    "infinitive": "caber",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Poder ser contido em um espaço; também ser da responsabilidade de alguém.",
+    "transitivity": "transitivo indireto e intransitivo",
+    "synonyms": [
+      "comportar",
+      "entrar",
+      "competir"
+    ],
+    "examples": [
+      "Não caibo mais nessa calça.",
+      "Coube a mim organizar a festa.",
+      "Será que todos caberão no carro?"
+    ]
+  },
+  {
+    "id": "ter",
+    "infinitive": "ter",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Possuir algo; também passar por uma experiência ou sentir algo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "possuir",
+      "deter",
+      "dispor de"
+    ],
+    "examples": [
+      "Tenho dois irmãos mais velhos.",
+      "Tivemos uma aula ótima hoje.",
+      "Eles têm muita sorte."
+    ]
+  },
+  {
+    "id": "estar",
+    "infinitive": "estar",
+    "conjugation": 1,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Encontrar-se em certo lugar, estado ou condição.",
+    "transitivity": "verbo de ligação e intransitivo",
+    "synonyms": [
+      "achar-se",
+      "encontrar-se",
+      "permanecer"
+    ],
+    "examples": [
+      "Estou com fome.",
+      "Estivemos na casa da vovó ontem.",
+      "Espero que vocês estejam bem."
+    ]
+  },
+  {
+    "id": "haver",
+    "infinitive": "haver",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Existir ou acontecer (uso impessoal); também ter, como auxiliar.",
+    "transitivity": "transitivo direto e impessoal",
+    "synonyms": [
+      "existir",
+      "ocorrer",
+      "acontecer"
+    ],
+    "examples": [
+      "Há muitos livros na biblioteca.",
+      "Houve um problema com a internet.",
+      "Eles já haviam saído quando chegamos."
+    ]
+  },
+  {
+    "id": "ver",
+    "infinitive": "ver",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Perceber pelos olhos; também assistir ou compreender.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "enxergar",
+      "observar",
+      "avistar"
+    ],
+    "examples": [
+      "Vejo o mar da minha janela.",
+      "Vimos um filme ótimo no sábado.",
+      "Quando você vir a Lua cheia, me chame."
+    ]
+  },
+  {
+    "id": "vir",
+    "infinitive": "vir",
+    "conjugation": 3,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Deslocar-se para o lugar onde está quem fala; também chegar ou surgir.",
+    "transitivity": "intransitivo e transitivo indireto",
+    "synonyms": [
+      "chegar",
+      "aparecer",
+      "aproximar-se"
+    ],
+    "examples": [
+      "Venho de ônibus para a escola.",
+      "Eles vieram à festa com os primos.",
+      "Se você vier amanhã, traga o jogo."
+    ]
+  },
+  {
+    "id": "dar",
+    "infinitive": "dar",
+    "conjugation": 1,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Entregar algo a alguém sem esperar pagamento; também produzir.",
+    "transitivity": "transitivo direto, transitivo direto e indireto e transitivo indireto",
+    "synonyms": [
+      "entregar",
+      "oferecer",
+      "doar"
+    ],
+    "examples": [
+      "Dei um livro de presente para minha irmã.",
+      "Dê sua opinião sobre o filme.",
+      "Se vocês derem o recado, ela virá."
+    ]
+  },
+  {
+    "id": "ler",
+    "infinitive": "ler",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Interpretar o que está escrito.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "interpretar",
+      "decifrar",
+      "estudar"
+    ],
+    "examples": [
+      "Leio um capítulo por noite.",
+      "Eles leem jornais todas as manhãs.",
+      "Lemos o livro inteiro nas férias."
+    ]
+  },
+  {
+    "id": "crer",
+    "infinitive": "crer",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Ter algo como verdadeiro; ter fé ou confiança.",
+    "transitivity": "transitivo indireto, transitivo direto e intransitivo",
+    "synonyms": [
+      "acreditar",
+      "confiar",
+      "julgar"
+    ],
+    "examples": [
+      "Creio que amanhã fará sol.",
+      "Muitos creem em histórias de assombração.",
+      "Ninguém creu na desculpa dele."
+    ]
+  },
+  {
+    "id": "rir",
+    "infinitive": "rir",
+    "conjugation": 3,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Manifestar alegria com o rosto e com sons; achar graça.",
+    "transitivity": "intransitivo e transitivo indireto",
+    "synonyms": [
+      "gargalhar",
+      "sorrir",
+      "zombar"
+    ],
+    "examples": [
+      "Rio muito com os vídeos do meu irmão.",
+      "Rimos até a barriga doer.",
+      "Eles riam das próprias trapalhadas."
+    ]
+  },
+  {
+    "id": "sorrir",
+    "infinitive": "sorrir",
+    "conjugation": 3,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Fazer expressão de alegria com os lábios, sem ruído.",
+    "transitivity": "intransitivo e transitivo indireto",
+    "synonyms": [
+      "rir",
+      "alegrar-se",
+      "gracejar"
+    ],
+    "examples": [
+      "Sorrio quando vejo meu cachorro.",
+      "A bebê sorriu para a câmera.",
+      "Sorria, você está sendo filmado!"
+    ]
+  },
+  {
+    "id": "sair",
+    "infinitive": "sair",
+    "conjugation": 3,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Ir de dentro para fora; deixar um lugar.",
+    "transitivity": "intransitivo e transitivo indireto",
+    "synonyms": [
+      "partir",
+      "ausentar-se",
+      "retirar-se"
+    ],
+    "examples": [
+      "Saio de casa às sete.",
+      "Ela saiu sem avisar ninguém.",
+      "Saiam pela porta da frente, por favor."
+    ]
+  },
+  {
+    "id": "cair",
+    "infinitive": "cair",
+    "conjugation": 3,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Ir ao chão; também diminuir ou acontecer em certa data.",
+    "transitivity": "intransitivo e transitivo indireto",
+    "synonyms": [
+      "tombar",
+      "despencar",
+      "baixar"
+    ],
+    "examples": [
+      "Caí da bicicleta, mas não me machuquei.",
+      "A temperatura caiu durante a noite.",
+      "O feriado cairá numa sexta-feira."
+    ]
+  },
+  {
+    "id": "pôr",
+    "infinitive": "pôr",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Colocar algo em algum lugar; também dispor ou vestir.",
+    "transitivity": "transitivo direto, transitivo direto e indireto e pronominal",
+    "synonyms": [
+      "colocar",
+      "depositar",
+      "situar"
+    ],
+    "examples": [
+      "Ponho a mesa para o jantar.",
+      "Ela pôs o casaco porque estava frio.",
+      "Quando o sol se puser, voltaremos."
+    ]
+  },
+  {
+    "id": "compor",
+    "infinitive": "compor",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Criar uma obra musical ou literária; também formar a partir de partes.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "criar",
+      "formar",
+      "constituir"
+    ],
+    "examples": [
+      "Componho canções no violão.",
+      "Chico Buarque compôs muitas músicas famosas.",
+      "Doze jogadores compõem o time."
+    ]
+  },
+  {
+    "id": "propor",
+    "infinitive": "propor",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Apresentar uma ideia ou sugestão para ser aceita.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "sugerir",
+      "oferecer",
+      "apresentar"
+    ],
+    "examples": [
+      "Proponho uma pausa para o lanche.",
+      "A turma propôs uma gincana.",
+      "Se eles propuserem um acordo, aceitaremos."
+    ]
+  },
+  {
+    "id": "supor",
+    "infinitive": "supor",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Admitir algo como possível ou provável.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "imaginar",
+      "presumir",
+      "conjeturar"
+    ],
+    "examples": [
+      "Suponho que você esteja com fome.",
+      "Supusemos que a loja estivesse aberta.",
+      "Suponha que x seja igual a dois."
+    ]
+  },
+  {
+    "id": "dispor",
+    "infinitive": "dispor",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Arrumar de certa forma; também ter algo à disposição.",
+    "transitivity": "transitivo direto, transitivo indireto e pronominal",
+    "synonyms": [
+      "organizar",
+      "arranjar",
+      "possuir"
+    ],
+    "examples": [
+      "Disponho de pouco tempo hoje.",
+      "Dispusemos as cadeiras em círculo.",
+      "A escola dispõe de uma ótima biblioteca."
+    ]
+  },
+  {
+    "id": "expor",
+    "infinitive": "expor",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Pôr à vista; também explicar ou arriscar.",
+    "transitivity": "transitivo direto, transitivo direto e indireto e pronominal",
+    "synonyms": [
+      "exibir",
+      "mostrar",
+      "explicar"
+    ],
+    "examples": [
+      "Exponho meus desenhos na feira de arte.",
+      "O museu expôs obras de Portinari.",
+      "Não se exponha ao sol do meio-dia."
+    ]
+  },
+  {
+    "id": "impor",
+    "infinitive": "impor",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Obrigar alguém a aceitar algo; também fazer-se respeitar.",
+    "transitivity": "transitivo direto, transitivo direto e indireto e pronominal",
+    "synonyms": [
+      "obrigar",
+      "estabelecer",
+      "exigir"
+    ],
+    "examples": [
+      "O técnico impôs regras rígidas.",
+      "A situação impõe cuidado.",
+      "Ela se impôs com firmeza na reunião."
+    ]
+  },
+  {
+    "id": "opor",
+    "infinitive": "opor",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Colocar contra; manifestar-se de forma contrária.",
+    "transitivity": "transitivo direto e indireto e pronominal",
+    "synonyms": [
+      "contrapor",
+      "resistir",
+      "contestar"
+    ],
+    "examples": [
+      "Oponho-me a qualquer forma de injustiça.",
+      "Os moradores se opuseram à obra.",
+      "Ninguém se oporá à proposta."
+    ]
+  },
+  {
+    "id": "repor",
+    "infinitive": "repor",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Colocar de novo no lugar; também devolver o que faltava.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "recolocar",
+      "restituir",
+      "substituir"
+    ],
+    "examples": [
+      "Reponho a água do filtro todos os dias.",
+      "A loja repôs os produtos da prateleira.",
+      "Reponha as aulas perdidas no sábado."
+    ]
+  },
+  {
+    "id": "depor",
+    "infinitive": "depor",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Prestar declaração como testemunha; também destituir.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "testemunhar",
+      "declarar",
+      "destituir"
+    ],
+    "examples": [
+      "A testemunha depôs no tribunal.",
+      "Deponho tudo o que vi.",
+      "A assembleia depôs o presidente do clube."
+    ]
+  },
+  {
+    "id": "pressupor",
+    "infinitive": "pressupor",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Supor previamente; ter como condição necessária.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "presumir",
+      "implicar",
+      "subentender"
+    ],
+    "examples": [
+      "O curso pressupõe conhecimentos básicos.",
+      "Pressupus que você já soubesse.",
+      "Esse plano pressuporia muito dinheiro."
+    ]
+  },
+  {
+    "id": "transpor",
+    "infinitive": "transpor",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Passar além de um obstáculo; também mudar de lugar.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "atravessar",
+      "ultrapassar",
+      "transferir"
+    ],
+    "examples": [
+      "Transpusemos a serra antes do anoitecer.",
+      "O cavalo transpõe obstáculos com facilidade.",
+      "Transponha o texto para a linguagem formal."
+    ]
+  },
+  {
+    "id": "sobrepor",
+    "infinitive": "sobrepor",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Pôr uma coisa por cima de outra.",
+    "transitivity": "transitivo direto e indireto e pronominal",
+    "synonyms": [
+      "superpor",
+      "justapor",
+      "acumular"
+    ],
+    "examples": [
+      "Sobreponho as folhas antes de grampear.",
+      "O interesse coletivo se sobrepõe ao individual.",
+      "Ela sobrepôs duas camadas de tinta."
+    ]
+  },
+  {
+    "id": "contrapor",
+    "infinitive": "contrapor",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Pôr em oposição para comparar ou contestar.",
+    "transitivity": "transitivo direto e indireto e pronominal",
+    "synonyms": [
+      "opor",
+      "confrontar",
+      "contrastar"
+    ],
+    "examples": [
+      "Contraponho dois argumentos na redação.",
+      "O professor contrapôs as duas teorias.",
+      "Os dados se contrapunham à hipótese inicial."
+    ]
+  },
+  {
+    "id": "manter",
+    "infinitive": "manter",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Conservar em certo estado; também sustentar.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "conservar",
+      "sustentar",
+      "preservar"
+    ],
+    "examples": [
+      "Mantenho meu quarto arrumado.",
+      "Mantivemos a calma durante a prova.",
+      "Mantenha distância do fogão."
+    ]
+  },
+  {
+    "id": "conter",
+    "infinitive": "conter",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Ter dentro de si; também segurar ou controlar.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "incluir",
+      "abranger",
+      "controlar"
+    ],
+    "examples": [
+      "Esta caixa contém brinquedos antigos.",
+      "Ela conteve o riso na hora da foto.",
+      "Os frascos contêm água do mar."
+    ]
+  },
+  {
+    "id": "obter",
+    "infinitive": "obter",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Conseguir algo, em geral com esforço.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "conseguir",
+      "alcançar",
+      "adquirir"
+    ],
+    "examples": [
+      "Obtive a melhor nota da turma.",
+      "Os alunos obtêm informações na biblioteca.",
+      "Obteremos os resultados na próxima semana."
+    ]
+  },
+  {
+    "id": "deter",
+    "infinitive": "deter",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Fazer parar; também possuir ou reter.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "parar",
+      "conter",
+      "possuir"
+    ],
+    "examples": [
+      "O goleiro deteve a bola com as mãos.",
+      "Detenha-se na leitura do enunciado.",
+      "A empresa detém os direitos do filme."
+    ]
+  },
+  {
+    "id": "reter",
+    "infinitive": "reter",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Guardar em si; também conservar ou memorizar.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "guardar",
+      "segurar",
+      "memorizar"
+    ],
+    "examples": [
+      "Retenho melhor o conteúdo quando faço resumos.",
+      "A esponja reteve muita água.",
+      "O trânsito nos reteve por uma hora."
+    ]
+  },
+  {
+    "id": "entreter",
+    "infinitive": "entreter",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Distrair de forma agradável; ocupar o tempo.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "divertir",
+      "distrair",
+      "recrear"
+    ],
+    "examples": [
+      "O mágico entreteve as crianças.",
+      "Entretenho-me com palavras cruzadas.",
+      "Os jogos entretêm os passageiros na viagem."
+    ]
+  },
+  {
+    "id": "abster",
+    "infinitive": "abster",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Privar-se voluntariamente de fazer algo.",
+    "transitivity": "pronominal e transitivo indireto (abster-se de algo)",
+    "synonyms": [
+      "privar-se",
+      "evitar",
+      "renunciar"
+    ],
+    "examples": [
+      "Abstenho-me de doces durante a semana.",
+      "Dois deputados se abstiveram na votação.",
+      "Abstenha-se de comentários maldosos."
+    ]
+  },
+  {
+    "id": "ater",
+    "infinitive": "ater",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Limitar-se a algo; ficar preso a um ponto.",
+    "transitivity": "pronominal e transitivo indireto (ater-se a algo)",
+    "synonyms": [
+      "limitar-se",
+      "restringir-se",
+      "cingir-se"
+    ],
+    "examples": [
+      "Atenho-me ao que foi pedido no enunciado.",
+      "Ela se ateve aos fatos.",
+      "Atenham-se ao tema da redação."
+    ]
+  },
+  {
+    "id": "prever",
+    "infinitive": "prever",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Ver ou saber com antecedência o que vai acontecer.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "antever",
+      "prognosticar",
+      "prenunciar"
+    ],
+    "examples": [
+      "Previ que ia chover e levei o guarda-chuva.",
+      "A meteorologia prevê frio para amanhã.",
+      "Ninguém previu aquele resultado."
+    ]
+  },
+  {
+    "id": "rever",
+    "infinitive": "rever",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Ver de novo; também revisar.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "reencontrar",
+      "revisar",
+      "reexaminar"
+    ],
+    "examples": [
+      "Revi meus amigos de infância.",
+      "Reveja suas respostas antes de entregar.",
+      "Revemos a matéria antes da prova."
+    ]
+  },
+  {
+    "id": "antever",
+    "infinitive": "antever",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Ver antes; prever o que vai acontecer.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "prever",
+      "pressentir",
+      "prognosticar"
+    ],
+    "examples": [
+      "Antevejo um ótimo resultado.",
+      "O técnico anteviu a jogada.",
+      "Os especialistas anteveem mudanças no clima."
+    ]
+  },
+  {
+    "id": "convir",
+    "infinitive": "convir",
+    "conjugation": 3,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Ser conveniente ou adequado; também concordar.",
+    "transitivity": "transitivo indireto e intransitivo",
+    "synonyms": [
+      "servir",
+      "interessar",
+      "concordar"
+    ],
+    "examples": [
+      "Convém sair cedo para evitar o trânsito.",
+      "Esse horário não me convinha.",
+      "Convenhamos: a ideia é boa."
+    ]
+  },
+  {
+    "id": "intervir",
+    "infinitive": "intervir",
+    "conjugation": 3,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Tomar parte em algo para mudar o rumo; interferir.",
+    "transitivity": "transitivo indireto e intransitivo",
+    "synonyms": [
+      "interferir",
+      "interceder",
+      "mediar"
+    ],
+    "examples": [
+      "A professora interveio na discussão.",
+      "Intervenho apenas quando é necessário.",
+      "Se o juiz intervier, o jogo para."
+    ]
+  },
+  {
+    "id": "provir",
+    "infinitive": "provir",
+    "conjugation": 3,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Ter origem; vir de algum lugar.",
+    "transitivity": "transitivo indireto",
+    "synonyms": [
+      "originar-se",
+      "proceder",
+      "derivar"
+    ],
+    "examples": [
+      "Este café provém de Minas Gerais.",
+      "As dúvidas provinham de uma leitura apressada.",
+      "Muitas palavras provieram do tupi."
+    ]
+  },
+  {
+    "id": "advir",
+    "infinitive": "advir",
+    "conjugation": 3,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Resultar de algo; acontecer como consequência.",
+    "transitivity": "transitivo indireto",
+    "synonyms": [
+      "resultar",
+      "decorrer",
+      "sobrevir"
+    ],
+    "examples": [
+      "Grandes conquistas advêm do esforço.",
+      "Do acordo adveio a paz.",
+      "Novas oportunidades advirão do curso."
+    ]
+  },
+  {
+    "id": "sobrevir",
+    "infinitive": "sobrevir",
+    "conjugation": 3,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Acontecer de forma inesperada após outra coisa.",
+    "transitivity": "intransitivo e transitivo indireto",
+    "synonyms": [
+      "ocorrer",
+      "suceder",
+      "advir"
+    ],
+    "examples": [
+      "Sobreveio uma tempestade durante o passeio.",
+      "Após a calmaria, sobrevieram dias agitados.",
+      "Se sobrevier algum problema, ligue para mim."
+    ]
+  },
+  {
+    "id": "desfazer",
+    "infinitive": "desfazer",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Desmanchar o que estava feito; também anular.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "desmanchar",
+      "desmontar",
+      "anular"
+    ],
+    "examples": [
+      "Desfiz a mala assim que cheguei.",
+      "O vento desfez o castelo de areia.",
+      "Desfaça o nó com cuidado."
+    ]
+  },
+  {
+    "id": "refazer",
+    "infinitive": "refazer",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Fazer de novo; também corrigir.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "reconstruir",
+      "recompor",
+      "repetir"
+    ],
+    "examples": [
+      "Refiz a lição porque estava errada.",
+      "Refaremos o cartaz com letras maiores.",
+      "Ela refaz os cálculos para conferir."
+    ]
+  },
+  {
+    "id": "satisfazer",
+    "infinitive": "satisfazer",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Atender a um desejo ou necessidade; também contentar.",
+    "transitivity": "transitivo direto, transitivo indireto e pronominal",
+    "synonyms": [
+      "contentar",
+      "agradar",
+      "atender"
+    ],
+    "examples": [
+      "O resultado satisfez a todos.",
+      "Satisfaço minha curiosidade lendo muito.",
+      "Se a resposta satisfizer o professor, terminamos."
+    ]
+  },
+  {
+    "id": "bendizer",
+    "infinitive": "bendizer",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Falar bem de algo ou alguém; também abençoar.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "louvar",
+      "abençoar",
+      "exaltar"
+    ],
+    "examples": [
+      "Bendigo o dia em que te conheci.",
+      "O povo bendisse a chuva depois da seca.",
+      "Bendiga as pequenas alegrias da vida."
+    ]
+  },
+  {
+    "id": "maldizer",
+    "infinitive": "maldizer",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Falar mal de algo ou alguém; também amaldiçoar.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "amaldiçoar",
+      "praguejar",
+      "difamar"
+    ],
+    "examples": [
+      "Ele maldisse a sorte ao perder o ônibus.",
+      "Não maldiga quem tentou ajudar.",
+      "Os viajantes maldiziam o calor da estrada."
+    ]
+  },
+  {
+    "id": "desdizer",
+    "infinitive": "desdizer",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Dizer o contrário do que se disse antes; retratar-se.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "desmentir",
+      "retratar-se",
+      "contradizer"
+    ],
+    "examples": [
+      "O jogador se desdisse depois da entrevista.",
+      "Não desdigo nada do que afirmei.",
+      "O segundo relato desdizia o primeiro."
+    ]
+  },
+  {
+    "id": "predizer",
+    "infinitive": "predizer",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Anunciar com antecedência o que vai acontecer.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "prever",
+      "profetizar",
+      "vaticinar"
+    ],
+    "examples": [
+      "O meteorologista predisse a chegada da frente fria.",
+      "Os cientistas predizem um verão quente.",
+      "Ninguém predirá o placar exato."
+    ]
+  },
+  {
+    "id": "contradizer",
+    "infinitive": "contradizer",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Dizer o contrário de algo; também contestar.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "contestar",
+      "desmentir",
+      "refutar"
+    ],
+    "examples": [
+      "Os dados contradizem a hipótese.",
+      "Ele se contradisse várias vezes no debate.",
+      "Não contradiga a professora sem argumentos."
+    ]
+  },
+  {
+    "id": "requerer",
+    "infinitive": "requerer",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Pedir algo formalmente; também exigir como necessário.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "solicitar",
+      "pleitear",
+      "exigir"
+    ],
+    "examples": [
+      "Requeiro uma cópia do documento.",
+      "O aluno requereu revisão da prova.",
+      "A receita requer paciência."
+    ]
+  },
+  {
+    "id": "prover",
+    "infinitive": "prover",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Abastecer do necessário; fornecer.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "abastecer",
+      "fornecer",
+      "suprir"
+    ],
+    "examples": [
+      "Os pais proveem o sustento da família.",
+      "A escola proveu material para todos.",
+      "Provejo a despensa toda semana."
+    ]
+  },
+  {
+    "id": "atrair",
+    "infinitive": "atrair",
+    "conjugation": 3,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Puxar para si; também despertar interesse.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "cativar",
+      "seduzir",
+      "chamar"
+    ],
+    "examples": [
+      "O ímã atrai o metal.",
+      "A feira atraiu muitos visitantes.",
+      "Atraio os pássaros com sementes no quintal."
+    ]
+  },
+  {
+    "id": "distrair",
+    "infinitive": "distrair",
+    "conjugation": 3,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Desviar a atenção; também entreter.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "entreter",
+      "divertir",
+      "desconcentrar"
+    ],
+    "examples": [
+      "Distraio-me com qualquer barulho.",
+      "O barulho distraiu os alunos.",
+      "Não se distraia durante a prova."
+    ]
+  },
+  {
+    "id": "contrair",
+    "infinitive": "contrair",
+    "conjugation": 3,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Encolher ou apertar; também adquirir uma doença ou dívida.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "encolher",
+      "apertar",
+      "adquirir"
+    ],
+    "examples": [
+      "O metal se contrai no frio.",
+      "Ela contraiu sarampo na infância.",
+      "Contraia o abdômen durante o exercício."
+    ]
+  },
+  {
+    "id": "subtrair",
+    "infinitive": "subtrair",
+    "conjugation": 3,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Retirar uma quantidade de outra; diminuir.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "diminuir",
+      "deduzir",
+      "tirar"
+    ],
+    "examples": [
+      "Subtraia cinco de vinte.",
+      "Subtraímos as despesas do total.",
+      "O contador subtraiu os impostos do salário."
+    ]
+  },
+  {
+    "id": "extrair",
+    "infinitive": "extrair",
+    "conjugation": 3,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Tirar para fora algo que estava dentro.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "retirar",
+      "tirar",
+      "arrancar"
+    ],
+    "examples": [
+      "O dentista extraiu o dente do siso.",
+      "Extraímos o suco das laranjas.",
+      "Extraia as ideias principais do texto."
+    ]
+  },
+  {
+    "id": "trair",
+    "infinitive": "trair",
+    "conjugation": 3,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Ser infiel à confiança de alguém; também revelar sem querer.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "enganar",
+      "atraiçoar",
+      "delatar"
+    ],
+    "examples": [
+      "Nunca traio a confiança de um amigo.",
+      "O sorriso traiu sua alegria.",
+      "A memória me traiu na hora da prova."
+    ]
+  },
+  {
+    "id": "sobressair",
+    "infinitive": "sobressair",
+    "conjugation": 3,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Destacar-se entre outros.",
+    "transitivity": "intransitivo, transitivo indireto e pronominal",
+    "synonyms": [
+      "destacar-se",
+      "distinguir-se",
+      "salientar-se"
+    ],
+    "examples": [
+      "Ela sobressai em Matemática.",
+      "Os prédios novos sobressaíam no horizonte.",
+      "Sobressaímos na olimpíada de ciências."
+    ]
+  },
+  {
+    "id": "recair",
+    "infinitive": "recair",
+    "conjugation": 3,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Cair de novo; também ser atribuído a alguém.",
+    "transitivity": "transitivo indireto",
+    "synonyms": [
+      "incidir",
+      "tornar a cair",
+      "voltar"
+    ],
+    "examples": [
+      "A responsabilidade recaiu sobre o líder.",
+      "O imposto recai sobre os produtos importados.",
+      "Se a culpa recair sobre mim, explicarei tudo."
+    ]
+  },
+  {
+    "id": "reler",
+    "infinitive": "reler",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Ler de novo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "rever",
+      "revisar",
+      "repassar"
+    ],
+    "examples": [
+      "Releio meus livros favoritos todo ano.",
+      "Relemos o enunciado com calma.",
+      "Releia o texto antes de responder."
+    ]
+  },
+  {
+    "id": "descrer",
+    "infinitive": "descrer",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Deixar de acreditar; não ter fé em algo.",
+    "transitivity": "transitivo indireto e transitivo direto",
+    "synonyms": [
+      "duvidar",
+      "desconfiar",
+      "desacreditar"
+    ],
+    "examples": [
+      "Descreio de promessas fáceis.",
+      "Muitos descreram da previsão do tempo.",
+      "Ela descria da própria capacidade."
+    ]
+  },
+  {
+    "id": "entrever",
+    "infinitive": "entrever",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Ver de modo vago ou rápido; também pressentir.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "vislumbrar",
+      "divisar",
+      "pressentir"
+    ],
+    "examples": [
+      "Entrevi um vulto no fim do corredor.",
+      "Entrevemos uma solução para o problema.",
+      "Pela fresta, entrevia-se o jardim."
+    ]
+  },
+  {
+    "id": "recompor",
+    "infinitive": "recompor",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Compor de novo; também restabelecer.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "reorganizar",
+      "restaurar",
+      "refazer"
+    ],
+    "examples": [
+      "Recompus a cena com as peças certas.",
+      "Depois do susto, ela se recompôs.",
+      "O técnico recompõe o time no intervalo."
+    ]
+  },
+  {
+    "id": "condizer",
+    "infinitive": "condizer",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "raro",
+    "level": 3,
+    "definition": "Estar de acordo; combinar.",
+    "transitivity": "transitivo indireto",
+    "synonyms": [
+      "combinar",
+      "harmonizar-se",
+      "corresponder"
+    ],
+    "examples": [
+      "Sua atitude não condiz com suas palavras.",
+      "A roupa condizia com a ocasião.",
+      "Os resultados condizem com a pesquisa."
+    ]
+  }
+]

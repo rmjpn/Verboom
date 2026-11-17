@@ -1,0 +1,4939 @@
+[
+  {
+    "id": "cantar",
+    "infinitive": "cantar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Emitir com a voz sons melodiosos, em geral acompanhando uma música ou letra.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "entoar",
+      "interpretar",
+      "cantarolar"
+    ],
+    "examples": [
+      "Minha avó cantava no coral da igreja.",
+      "Nós cantamos parabéns para o professor ontem.",
+      "Se você cantar no show, eu vou aplaudir."
+    ]
+  },
+  {
+    "id": "falar",
+    "infinitive": "falar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Comunicar-se por meio de palavras ditas em voz alta.",
+    "transitivity": "transitivo indireto, transitivo direto e intransitivo",
+    "synonyms": [
+      "dizer",
+      "conversar",
+      "expressar"
+    ],
+    "examples": [
+      "Ela fala três idiomas com fluência.",
+      "Falamos com a diretora sobre o passeio.",
+      "Amanhã falarei com meus pais sobre a viagem."
+    ]
+  },
+  {
+    "id": "estudar",
+    "infinitive": "estudar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Dedicar atenção e esforço para aprender um conteúdo ou desenvolver uma habilidade.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "aprender",
+      "analisar",
+      "examinar"
+    ],
+    "examples": [
+      "Eu estudo matemática todas as tardes.",
+      "Eles estudaram juntos para o vestibular.",
+      "Se estudássemos mais cedo, dormiríamos melhor."
+    ]
+  },
+  {
+    "id": "andar",
+    "infinitive": "andar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Deslocar-se a pé, dando passos; também indica estar em certo estado.",
+    "transitivity": "intransitivo e transitivo indireto",
+    "synonyms": [
+      "caminhar",
+      "passear",
+      "circular"
+    ],
+    "examples": [
+      "Nós andamos até a praça depois do almoço.",
+      "O bebê já anda sozinho pela casa.",
+      "Ultimamente ela anda muito cansada."
+    ]
+  },
+  {
+    "id": "amar",
+    "infinitive": "amar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Sentir profundo afeto, carinho ou apego por alguém ou algo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "adorar",
+      "querer bem",
+      "estimar"
+    ],
+    "examples": [
+      "Amo os domingos com a família reunida.",
+      "Os avós amavam contar histórias aos netos.",
+      "Ela sempre amará a música brasileira."
+    ]
+  },
+  {
+    "id": "ajudar",
+    "infinitive": "ajudar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Dar apoio ou colaborar com alguém para que realize algo.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "auxiliar",
+      "apoiar",
+      "socorrer"
+    ],
+    "examples": [
+      "Meu irmão me ajudou com a lição de casa.",
+      "Ajudaremos os vizinhos na mudança.",
+      "Ajude sua colega a encontrar a sala."
+    ]
+  },
+  {
+    "id": "trabalhar",
+    "infinitive": "trabalhar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Exercer uma atividade, profissional ou não, com esforço e dedicação.",
+    "transitivity": "intransitivo e transitivo indireto",
+    "synonyms": [
+      "labutar",
+      "atuar",
+      "batalhar"
+    ],
+    "examples": [
+      "Minha mãe trabalha em um hospital.",
+      "Trabalhamos no projeto até tarde ontem.",
+      "Eles trabalhariam menos se pudessem."
+    ]
+  },
+  {
+    "id": "morar",
+    "infinitive": "morar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Ter residência fixa em determinado lugar.",
+    "transitivity": "transitivo indireto (morar em algum lugar)",
+    "synonyms": [
+      "residir",
+      "habitar",
+      "viver"
+    ],
+    "examples": [
+      "Eu moro perto da escola.",
+      "Meus tios moraram no Recife por dez anos.",
+      "Onde vocês morarão depois da formatura?"
+    ]
+  },
+  {
+    "id": "olhar",
+    "infinitive": "olhar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Dirigir os olhos para algo ou alguém; também cuidar ou vigiar.",
+    "transitivity": "transitivo direto, transitivo indireto e intransitivo",
+    "synonyms": [
+      "observar",
+      "mirar",
+      "fitar"
+    ],
+    "examples": [
+      "Olhe para os dois lados antes de atravessar.",
+      "A turma olhava o céu cheio de estrelas.",
+      "Nós olhamos as fotos da viagem juntos."
+    ]
+  },
+  {
+    "id": "gostar",
+    "infinitive": "gostar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Sentir prazer, simpatia ou interesse por algo ou alguém.",
+    "transitivity": "transitivo indireto (gostar de algo)",
+    "synonyms": [
+      "apreciar",
+      "curtir",
+      "adorar"
+    ],
+    "examples": [
+      "Eu gosto muito de pão de queijo.",
+      "Vocês gostaram do filme de ontem?",
+      "Acho que ela gostaria de conhecer o museu."
+    ]
+  },
+  {
+    "id": "comprar",
+    "infinitive": "comprar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Adquirir algo mediante pagamento.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "adquirir",
+      "obter",
+      "arrematar"
+    ],
+    "examples": [
+      "Compramos frutas na feira de sábado.",
+      "Meu pai comprará um computador novo.",
+      "Ela comprava revistas toda semana."
+    ]
+  },
+  {
+    "id": "levar",
+    "infinitive": "levar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Conduzir ou transportar algo ou alguém de um lugar para outro.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "transportar",
+      "conduzir",
+      "carregar"
+    ],
+    "examples": [
+      "Levo o guarda-chuva sempre que saio.",
+      "Eles levaram bolo para a festa da turma.",
+      "Quem levará as crianças ao parque?"
+    ]
+  },
+  {
+    "id": "chamar",
+    "infinitive": "chamar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Dizer o nome de alguém para atrair sua atenção; também nomear ou convocar.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "convocar",
+      "nomear",
+      "denominar"
+    ],
+    "examples": [
+      "A professora chamou os alunos para a fila.",
+      "Como se chama o seu cachorro?",
+      "Chamaremos um táxi depois do jantar."
+    ]
+  },
+  {
+    "id": "pensar",
+    "infinitive": "pensar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Usar a mente para formar ideias, refletir ou considerar algo.",
+    "transitivity": "transitivo indireto e intransitivo",
+    "synonyms": [
+      "refletir",
+      "raciocinar",
+      "ponderar"
+    ],
+    "examples": [
+      "Penso em você sempre que ouço essa música.",
+      "Pensamos bastante antes de escolher o curso.",
+      "Pense bem antes de responder."
+    ]
+  },
+  {
+    "id": "passar",
+    "infinitive": "passar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Ir de um lugar a outro ou atravessar; também transcorrer ou ser aprovado.",
+    "transitivity": "transitivo direto, transitivo indireto e intransitivo",
+    "synonyms": [
+      "atravessar",
+      "transcorrer",
+      "cruzar"
+    ],
+    "examples": [
+      "O ônibus passa aqui às sete horas.",
+      "Ela passou na prova de redação.",
+      "As férias passaram depressa."
+    ]
+  },
+  {
+    "id": "usar",
+    "infinitive": "usar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Servir-se de algo para determinado fim.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "utilizar",
+      "empregar",
+      "aproveitar"
+    ],
+    "examples": [
+      "Uso óculos para ler.",
+      "Os alunos usaram o laboratório ontem.",
+      "Usaremos o dicionário na próxima aula."
+    ]
+  },
+  {
+    "id": "mostrar",
+    "infinitive": "mostrar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Expor algo à vista de alguém ou tornar algo evidente.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "exibir",
+      "apresentar",
+      "revelar"
+    ],
+    "examples": [
+      "Ela mostrou as fotos da viagem aos amigos.",
+      "Mostre seu caderno para a professora.",
+      "Os dados mostravam um resultado surpreendente."
+    ]
+  },
+  {
+    "id": "tomar",
+    "infinitive": "tomar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Pegar ou segurar; também beber, ingerir ou ocupar.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "pegar",
+      "beber",
+      "ingerir"
+    ],
+    "examples": [
+      "Tomo café com leite toda manhã.",
+      "Tomamos o ônibus errado ontem.",
+      "Tome cuidado com o degrau."
+    ]
+  },
+  {
+    "id": "deixar",
+    "infinitive": "deixar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Sair de um lugar ou largar algo; também permitir.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "largar",
+      "abandonar",
+      "permitir"
+    ],
+    "examples": [
+      "Deixei a mochila na sala de aula.",
+      "Meus pais deixaram que eu fosse à festa.",
+      "Não deixe a porta aberta."
+    ]
+  },
+  {
+    "id": "entrar",
+    "infinitive": "entrar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Passar para dentro de um lugar ou grupo.",
+    "transitivity": "transitivo indireto e intransitivo",
+    "synonyms": [
+      "ingressar",
+      "adentrar",
+      "penetrar"
+    ],
+    "examples": [
+      "Entramos na sala antes do sinal.",
+      "Ela entrará na faculdade no ano que vem.",
+      "Entre, a casa é sua!"
+    ]
+  },
+  {
+    "id": "voltar",
+    "infinitive": "voltar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Ir novamente ao lugar de onde se saiu.",
+    "transitivity": "transitivo indireto e intransitivo",
+    "synonyms": [
+      "regressar",
+      "retornar",
+      "tornar"
+    ],
+    "examples": [
+      "Voltei para casa mais cedo hoje.",
+      "Eles voltarão das férias no domingo.",
+      "Se você voltar logo, jantamos juntos."
+    ]
+  },
+  {
+    "id": "encontrar",
+    "infinitive": "encontrar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Achar o que se procurava ou deparar-se com alguém.",
+    "transitivity": "transitivo direto, transitivo indireto e pronominal",
+    "synonyms": [
+      "achar",
+      "descobrir",
+      "deparar"
+    ],
+    "examples": [
+      "Encontrei a chave embaixo do sofá.",
+      "Nós nos encontramos na entrada do cinema.",
+      "Espero que você encontre o livro."
+    ]
+  },
+  {
+    "id": "lembrar",
+    "infinitive": "lembrar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Trazer algo de volta à memória.",
+    "transitivity": "transitivo direto, transitivo indireto e pronominal",
+    "synonyms": [
+      "recordar",
+      "rememorar",
+      "evocar"
+    ],
+    "examples": [
+      "Lembro bem do meu primeiro dia de aula.",
+      "Você se lembrou de comprar pão?",
+      "Sempre lembraremos essa viagem com carinho."
+    ]
+  },
+  {
+    "id": "acabar",
+    "infinitive": "acabar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Levar algo ao fim ou chegar ao fim.",
+    "transitivity": "transitivo direto, transitivo indireto e intransitivo",
+    "synonyms": [
+      "terminar",
+      "concluir",
+      "encerrar"
+    ],
+    "examples": [
+      "O filme acabou às dez horas.",
+      "Acabamos o trabalho antes do prazo.",
+      "Quando você acabar, me avise."
+    ]
+  },
+  {
+    "id": "gritar",
+    "infinitive": "gritar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Falar ou emitir sons em voz muito alta.",
+    "transitivity": "intransitivo e transitivo direto",
+    "synonyms": [
+      "berrar",
+      "bradar",
+      "clamar"
+    ],
+    "examples": [
+      "A torcida gritou quando saiu o gol.",
+      "Não grite dentro da biblioteca.",
+      "As crianças gritavam de alegria no pátio."
+    ]
+  },
+  {
+    "id": "nadar",
+    "infinitive": "nadar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Deslocar-se na água movimentando braços e pernas.",
+    "transitivity": "intransitivo",
+    "synonyms": [
+      "bracejar",
+      "banhar-se"
+    ],
+    "examples": [
+      "Nado na piscina do clube duas vezes por semana.",
+      "Os golfinhos nadaram ao lado do barco.",
+      "Se nadássemos mais, teríamos mais fôlego."
+    ]
+  },
+  {
+    "id": "jantar",
+    "infinitive": "jantar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Fazer a refeição da noite.",
+    "transitivity": "intransitivo e transitivo direto",
+    "synonyms": [
+      "cear",
+      "comer"
+    ],
+    "examples": [
+      "Jantamos cedo nos dias de semana.",
+      "Ontem jantei sopa de legumes.",
+      "Vocês jantarão conosco no sábado?"
+    ]
+  },
+  {
+    "id": "pular",
+    "infinitive": "pular",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Erguer o corpo do chão com impulso das pernas; também passar por cima de algo ou omiti-lo.",
+    "transitivity": "intransitivo e transitivo direto",
+    "synonyms": [
+      "saltar",
+      "transpor",
+      "omitir"
+    ],
+    "examples": [
+      "As crianças pulavam corda no recreio.",
+      "Pulei a poça para não molhar o tênis.",
+      "Não pule nenhuma questão da prova."
+    ]
+  },
+  {
+    "id": "saltar",
+    "infinitive": "saltar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Elevar-se do chão com impulso ou descer rapidamente de algum lugar.",
+    "transitivity": "intransitivo e transitivo direto",
+    "synonyms": [
+      "pular",
+      "transpor",
+      "lançar-se"
+    ],
+    "examples": [
+      "O atleta saltou quase oito metros.",
+      "Saltamos do ônibus no ponto certo.",
+      "O gato salta do muro com facilidade."
+    ]
+  },
+  {
+    "id": "cozinhar",
+    "infinitive": "cozinhar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Preparar alimentos, geralmente pela ação do calor.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "preparar",
+      "cozer",
+      "refogar"
+    ],
+    "examples": [
+      "Meu pai cozinha muito bem.",
+      "Cozinhamos arroz e feijão para o almoço.",
+      "Quem cozinhará no domingo?"
+    ]
+  },
+  {
+    "id": "lavar",
+    "infinitive": "lavar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Limpar algo com água ou outro líquido.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "limpar",
+      "enxaguar",
+      "banhar"
+    ],
+    "examples": [
+      "Lave as mãos antes das refeições.",
+      "Lavamos a louça depois do jantar.",
+      "Ela lavava o carro todo sábado."
+    ]
+  },
+  {
+    "id": "arrumar",
+    "infinitive": "arrumar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Pôr em ordem ou organizar; também conseguir algo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "organizar",
+      "ordenar",
+      "arranjar"
+    ],
+    "examples": [
+      "Arrumei meu quarto de manhã.",
+      "Vocês arrumaram as malas para a viagem?",
+      "Ele arrumará um emprego em breve."
+    ]
+  },
+  {
+    "id": "guardar",
+    "infinitive": "guardar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Colocar algo em lugar seguro ou apropriado; também conservar.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "conservar",
+      "armazenar",
+      "proteger"
+    ],
+    "examples": [
+      "Guardo meus documentos nesta gaveta.",
+      "Ela guardou um pedaço de bolo para mim.",
+      "Guardem os livros na estante, por favor."
+    ]
+  },
+  {
+    "id": "esperar",
+    "infinitive": "esperar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Permanecer onde se está até que algo aconteça ou alguém chegue; também ter esperança.",
+    "transitivity": "transitivo direto, transitivo indireto e intransitivo",
+    "synonyms": [
+      "aguardar",
+      "desejar",
+      "contar com"
+    ],
+    "examples": [
+      "Esperamos o ônibus por meia hora.",
+      "Espero que você goste do presente.",
+      "Ela esperava notícias da família."
+    ]
+  },
+  {
+    "id": "escutar",
+    "infinitive": "escutar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Prestar atenção para ouvir algo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "ouvir",
+      "atender",
+      "auscultar"
+    ],
+    "examples": [
+      "Escuto música enquanto estudo.",
+      "Os alunos escutaram a explicação em silêncio.",
+      "Escute o que seu avô tem a dizer."
+    ]
+  },
+  {
+    "id": "cortar",
+    "infinitive": "cortar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Dividir ou separar algo com instrumento afiado; também interromper ou reduzir.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "partir",
+      "dividir",
+      "reduzir"
+    ],
+    "examples": [
+      "Corte o pão em fatias finas.",
+      "Cortei o cabelo na semana passada.",
+      "A empresa cortará gastos no próximo ano."
+    ]
+  },
+  {
+    "id": "desenhar",
+    "infinitive": "desenhar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Representar formas e figuras por meio de linhas e traços.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "traçar",
+      "esboçar",
+      "delinear"
+    ],
+    "examples": [
+      "Ela desenha personagens de quadrinhos.",
+      "Desenhamos o mapa do bairro na aula de Geografia.",
+      "Quando criança, eu desenhava o dia inteiro."
+    ]
+  },
+  {
+    "id": "pintar",
+    "infinitive": "pintar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Cobrir uma superfície com tinta ou criar imagens com cores.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "colorir",
+      "tingir",
+      "retratar"
+    ],
+    "examples": [
+      "Pintamos a parede da sala de azul.",
+      "O artista pintou um retrato da filha.",
+      "Vocês pintarão o cenário da peça?"
+    ]
+  },
+  {
+    "id": "sonhar",
+    "infinitive": "sonhar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Ter imagens e ideias durante o sono; também desejar intensamente.",
+    "transitivity": "transitivo indireto e intransitivo",
+    "synonyms": [
+      "devanear",
+      "almejar",
+      "fantasiar"
+    ],
+    "examples": [
+      "Sonhei com o mar esta noite.",
+      "Ela sonha em ser astronauta.",
+      "Sonhávamos com uma casa no campo."
+    ]
+  },
+  {
+    "id": "chorar",
+    "infinitive": "chorar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Derramar lágrimas por emoção, dor ou alegria.",
+    "transitivity": "intransitivo e transitivo direto",
+    "synonyms": [
+      "lacrimejar",
+      "prantear",
+      "soluçar"
+    ],
+    "examples": [
+      "O bebê chorou a noite inteira.",
+      "Choramos de rir com aquela comédia.",
+      "Não chore, tudo vai dar certo."
+    ]
+  },
+  {
+    "id": "viajar",
+    "infinitive": "viajar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Deslocar-se para um lugar distante, em geral a passeio ou a trabalho.",
+    "transitivity": "intransitivo e transitivo indireto",
+    "synonyms": [
+      "excursionar",
+      "percorrer",
+      "partir"
+    ],
+    "examples": [
+      "Viajamos para o Nordeste nas últimas férias.",
+      "Ela viaja a trabalho toda semana.",
+      "Se eu viajar em julho, levarei você."
+    ]
+  },
+  {
+    "id": "visitar",
+    "infinitive": "visitar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Ir ver alguém ou conhecer um lugar.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "conhecer",
+      "frequentar",
+      "percorrer"
+    ],
+    "examples": [
+      "Visitamos os avós todo domingo.",
+      "A turma visitou o Museu do Ipiranga.",
+      "Visite-nos quando estiver na cidade."
+    ]
+  },
+  {
+    "id": "convidar",
+    "infinitive": "convidar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Pedir a presença de alguém em um evento ou atividade.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "chamar",
+      "convocar",
+      "solicitar"
+    ],
+    "examples": [
+      "Convidei toda a turma para o aniversário.",
+      "Eles nos convidaram para jantar.",
+      "Convidaremos o diretor para a cerimônia."
+    ]
+  },
+  {
+    "id": "perguntar",
+    "infinitive": "perguntar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Fazer uma pergunta para obter informação.",
+    "transitivity": "transitivo direto, transitivo indireto e transitivo direto e indireto",
+    "synonyms": [
+      "indagar",
+      "questionar",
+      "interrogar"
+    ],
+    "examples": [
+      "Perguntei o caminho a um policial.",
+      "Os alunos perguntaram sobre a prova.",
+      "Pergunte à professora se pode sair."
+    ]
+  },
+  {
+    "id": "contar",
+    "infinitive": "contar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Enumerar quantidades; também narrar um fato ou confiar em alguém.",
+    "transitivity": "transitivo direto, transitivo direto e indireto e transitivo indireto",
+    "synonyms": [
+      "narrar",
+      "relatar",
+      "calcular"
+    ],
+    "examples": [
+      "A criança contou até cem sem errar.",
+      "Conte-me como foi a viagem.",
+      "Podemos contar com vocês amanhã?"
+    ]
+  },
+  {
+    "id": "assinar",
+    "infinitive": "assinar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Escrever o próprio nome em um documento; também fazer a assinatura de um serviço.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "rubricar",
+      "firmar",
+      "subscrever"
+    ],
+    "examples": [
+      "Assine aqui, por favor.",
+      "Assinamos o contrato de aluguel ontem.",
+      "Meu pai assinava dois jornais."
+    ]
+  },
+  {
+    "id": "preparar",
+    "infinitive": "preparar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Deixar algo pronto para uso ou para determinado fim.",
+    "transitivity": "transitivo direto, transitivo direto e indireto e pronominal",
+    "synonyms": [
+      "aprontar",
+      "organizar",
+      "elaborar"
+    ],
+    "examples": [
+      "Preparo o café da manhã às seis.",
+      "Ela preparou uma surpresa para a mãe.",
+      "Os alunos se prepararão para o simulado."
+    ]
+  },
+  {
+    "id": "terminar",
+    "infinitive": "terminar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Concluir algo ou chegar ao fim.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "acabar",
+      "concluir",
+      "finalizar"
+    ],
+    "examples": [
+      "Terminei o livro ontem à noite.",
+      "A aula termina ao meio-dia.",
+      "Quando terminarmos, sairemos para lanchar."
+    ]
+  },
+  {
+    "id": "mudar",
+    "infinitive": "mudar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Tornar diferente; também transferir-se de lugar.",
+    "transitivity": "transitivo direto, transitivo indireto e intransitivo",
+    "synonyms": [
+      "alterar",
+      "transformar",
+      "trocar"
+    ],
+    "examples": [
+      "Mudamos de casa no ano passado.",
+      "O tempo mudou de repente.",
+      "Se você mudar de ideia, me avise."
+    ]
+  },
+  {
+    "id": "adorar",
+    "infinitive": "adorar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Gostar muito de algo ou de alguém; também venerar.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "amar",
+      "venerar",
+      "idolatrar"
+    ],
+    "examples": [
+      "Adoro sorvete de chocolate.",
+      "As crianças adoraram o passeio ao zoológico.",
+      "Tenho certeza de que você adorará o livro."
+    ]
+  },
+  {
+    "id": "precisar",
+    "infinitive": "precisar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Ter necessidade de algo ou de alguém.",
+    "transitivity": "transitivo indireto e transitivo direto",
+    "synonyms": [
+      "necessitar",
+      "carecer",
+      "requerer"
+    ],
+    "examples": [
+      "Preciso de ajuda com este exercício.",
+      "Precisamos sair às sete.",
+      "Vocês precisaram de muito tempo para terminar?"
+    ]
+  },
+  {
+    "id": "achar",
+    "infinitive": "achar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Encontrar algo; também ter uma opinião.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "encontrar",
+      "julgar",
+      "considerar"
+    ],
+    "examples": [
+      "Achei uma moeda na calçada.",
+      "Acho que vai chover hoje.",
+      "Eles acharam a solução do problema."
+    ]
+  },
+  {
+    "id": "tirar",
+    "infinitive": "tirar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Remover algo de onde estava; também obter.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "retirar",
+      "remover",
+      "extrair"
+    ],
+    "examples": [
+      "Tire os sapatos antes de entrar.",
+      "Tirei nota dez em História!",
+      "Nós tiramos muitas fotos na praia."
+    ]
+  },
+  {
+    "id": "mandar",
+    "infinitive": "mandar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Dar ordem; também enviar algo a alguém.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "ordenar",
+      "enviar",
+      "remeter"
+    ],
+    "examples": [
+      "Mandei uma mensagem para minha prima.",
+      "A professora mandou a turma fazer silêncio.",
+      "Mandaremos o convite pelo correio."
+    ]
+  },
+  {
+    "id": "durar",
+    "infinitive": "durar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Prolongar-se por certo tempo; manter-se em existência.",
+    "transitivity": "intransitivo",
+    "synonyms": [
+      "perdurar",
+      "persistir",
+      "permanecer"
+    ],
+    "examples": [
+      "A reunião durou duas horas.",
+      "Esta bateria dura o dia todo.",
+      "Quanto tempo durará a obra?"
+    ]
+  },
+  {
+    "id": "custar",
+    "infinitive": "custar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Ter determinado preço; também ser difícil.",
+    "transitivity": "intransitivo e transitivo indireto",
+    "synonyms": [
+      "valer",
+      "sair por"
+    ],
+    "examples": [
+      "Quanto custa este caderno?",
+      "A bicicleta custou mais do que eu esperava.",
+      "Custou-me acreditar na notícia."
+    ]
+  },
+  {
+    "id": "cuidar",
+    "infinitive": "cuidar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Tratar com atenção e zelo; tomar conta.",
+    "transitivity": "transitivo indireto (cuidar de alguém ou algo)",
+    "synonyms": [
+      "zelar",
+      "tratar",
+      "proteger"
+    ],
+    "examples": [
+      "Cuido das plantas da varanda.",
+      "Minha irmã cuidou do cachorro durante a viagem.",
+      "Cuide bem da sua saúde."
+    ]
+  },
+  {
+    "id": "notar",
+    "infinitive": "notar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Perceber algo pela observação.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "perceber",
+      "reparar",
+      "observar"
+    ],
+    "examples": [
+      "Notei que você cortou o cabelo.",
+      "Ninguém notou a mudança no cartaz.",
+      "Notaremos a diferença com o tempo."
+    ]
+  },
+  {
+    "id": "apresentar",
+    "infinitive": "apresentar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Mostrar, exibir ou dar a conhecer algo ou alguém.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "mostrar",
+      "exibir",
+      "expor"
+    ],
+    "examples": [
+      "Apresentei meu trabalho para a turma.",
+      "Ela nos apresentou a sua nova amiga.",
+      "O grupo apresentará a peça na sexta."
+    ]
+  },
+  {
+    "id": "aumentar",
+    "infinitive": "aumentar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Tornar maior em quantidade, tamanho ou intensidade.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "ampliar",
+      "elevar",
+      "acrescer"
+    ],
+    "examples": [
+      "O preço da passagem aumentou.",
+      "Aumente o volume, por favor.",
+      "A cidade aumentará o número de ciclovias."
+    ]
+  },
+  {
+    "id": "formar",
+    "infinitive": "formar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Dar forma a algo; também educar ou concluir um curso.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "constituir",
+      "moldar",
+      "compor"
+    ],
+    "examples": [
+      "Os alunos formaram uma fila.",
+      "Ela se formou em Engenharia no ano passado.",
+      "Formaremos dois grupos para o debate."
+    ]
+  },
+  {
+    "id": "informar",
+    "infinitive": "informar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Dar notícia ou conhecimento de algo a alguém.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "comunicar",
+      "avisar",
+      "notificar"
+    ],
+    "examples": [
+      "O guia informou o horário do passeio.",
+      "Informe seus dados no formulário.",
+      "A escola informará as datas das provas."
+    ]
+  },
+  {
+    "id": "transformar",
+    "infinitive": "transformar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Mudar a forma, o aspecto ou a natureza de algo.",
+    "transitivity": "transitivo direto, transitivo direto e indireto e pronominal",
+    "synonyms": [
+      "modificar",
+      "converter",
+      "alterar"
+    ],
+    "examples": [
+      "A lagarta se transforma em borboleta.",
+      "Transformamos o quintal em uma horta.",
+      "A leitura transformou a vida dele."
+    ]
+  },
+  {
+    "id": "ensinar",
+    "infinitive": "ensinar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Transmitir conhecimentos ou habilidades a alguém.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "lecionar",
+      "instruir",
+      "educar"
+    ],
+    "examples": [
+      "Meu avô me ensinou a jogar xadrez.",
+      "Ela ensina Português há vinte anos.",
+      "Ensinaremos os novatos a usar o sistema."
+    ]
+  },
+  {
+    "id": "ocupar",
+    "infinitive": "ocupar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Preencher um espaço ou tempo; também tomar posse de algo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "preencher",
+      "tomar",
+      "habitar"
+    ],
+    "examples": [
+      "Os livros ocupam metade do armário.",
+      "Ocupamos a mesa perto da janela.",
+      "O novo diretor ocupará o cargo em março."
+    ]
+  },
+  {
+    "id": "participar",
+    "infinitive": "participar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Tomar parte em uma atividade ou acontecimento.",
+    "transitivity": "transitivo indireto (participar de algo)",
+    "synonyms": [
+      "integrar",
+      "colaborar",
+      "envolver-se"
+    ],
+    "examples": [
+      "Participei da feira de ciências.",
+      "Todos participarão da gincana.",
+      "Eles participavam do coral da escola."
+    ]
+  },
+  {
+    "id": "organizar",
+    "infinitive": "organizar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Dispor de forma ordenada; planejar e preparar algo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "ordenar",
+      "arrumar",
+      "planejar"
+    ],
+    "examples": [
+      "Organizamos uma festa surpresa.",
+      "Ela organiza a agenda todas as manhãs.",
+      "Organize os arquivos por data."
+    ]
+  },
+  {
+    "id": "realizar",
+    "infinitive": "realizar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Tornar real; pôr em prática; executar.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "executar",
+      "efetuar",
+      "concretizar"
+    ],
+    "examples": [
+      "A escola realizou uma feira cultural.",
+      "Realizei o sonho de conhecer o mar.",
+      "Os técnicos realizarão os testes amanhã."
+    ]
+  },
+  {
+    "id": "analisar",
+    "infinitive": "analisar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Examinar algo em detalhe para compreendê-lo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "examinar",
+      "estudar",
+      "investigar"
+    ],
+    "examples": [
+      "Analisamos o texto em grupo.",
+      "O médico analisou os exames com cuidado.",
+      "Analise o gráfico antes de responder."
+    ]
+  },
+  {
+    "id": "utilizar",
+    "infinitive": "utilizar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Fazer uso de algo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "usar",
+      "empregar",
+      "aproveitar"
+    ],
+    "examples": [
+      "Utilizamos materiais recicláveis no projeto.",
+      "Ela utiliza o tablet para estudar.",
+      "Utilize a régua para traçar as linhas."
+    ]
+  },
+  {
+    "id": "controlar",
+    "infinitive": "controlar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Exercer domínio ou fiscalização sobre algo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "dominar",
+      "fiscalizar",
+      "conter"
+    ],
+    "examples": [
+      "Controlei a ansiedade antes da prova.",
+      "O técnico controla a temperatura do laboratório.",
+      "Controlem o tempo de cada apresentação."
+    ]
+  },
+  {
+    "id": "considerar",
+    "infinitive": "considerar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Levar em conta; também julgar ou ter em certa opinião.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "ponderar",
+      "julgar",
+      "avaliar"
+    ],
+    "examples": [
+      "Considero este o melhor livro do ano.",
+      "Os jurados consideraram todas as propostas.",
+      "Considere a hipótese de mudar de plano."
+    ]
+  },
+  {
+    "id": "separar",
+    "infinitive": "separar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Pôr à parte; desunir o que estava junto.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "apartar",
+      "dividir",
+      "isolar"
+    ],
+    "examples": [
+      "Separe o lixo reciclável do orgânico.",
+      "Separamos as roupas por cor.",
+      "A cerca separava os dois terrenos."
+    ]
+  },
+  {
+    "id": "comparar",
+    "infinitive": "comparar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Examinar duas ou mais coisas para notar semelhanças e diferenças.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "confrontar",
+      "cotejar",
+      "equiparar"
+    ],
+    "examples": [
+      "Comparamos os preços em três lojas.",
+      "O professor comparou os dois poemas.",
+      "Não compare seu desempenho com o dos outros."
+    ]
+  },
+  {
+    "id": "parar",
+    "infinitive": "parar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Deixar de se mover ou de fazer algo.",
+    "transitivity": "intransitivo, transitivo direto e transitivo indireto",
+    "synonyms": [
+      "cessar",
+      "interromper",
+      "deter"
+    ],
+    "examples": [
+      "O carro parou no sinal vermelho.",
+      "Pare de conversar e ouça a explicação.",
+      "A chuva parará à tarde."
+    ]
+  },
+  {
+    "id": "lutar",
+    "infinitive": "lutar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Empenhar-se com força para alcançar algo; também praticar luta esportiva.",
+    "transitivity": "intransitivo e transitivo indireto",
+    "synonyms": [
+      "batalhar",
+      "combater",
+      "esforçar-se"
+    ],
+    "examples": [
+      "Ela lutou muito para entrar na universidade.",
+      "Lutamos por uma escola melhor.",
+      "Os atletas lutarão pela medalha de ouro."
+    ]
+  },
+  {
+    "id": "votar",
+    "infinitive": "votar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Expressar escolha ou opinião por meio do voto.",
+    "transitivity": "transitivo indireto e intransitivo",
+    "synonyms": [
+      "eleger",
+      "sufragar",
+      "escolher"
+    ],
+    "examples": [
+      "Votei pela primeira vez aos dezesseis anos.",
+      "A turma votou no novo representante.",
+      "Vocês votarão na assembleia?"
+    ]
+  },
+  {
+    "id": "aprovar",
+    "infinitive": "aprovar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Considerar bom ou aceitável; também dar aprovação em exame.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "aceitar",
+      "autorizar",
+      "validar"
+    ],
+    "examples": [
+      "O conselho aprovou o projeto.",
+      "Meus pais aprovam minha decisão.",
+      "Se aprovarem a proposta, começaremos logo."
+    ]
+  },
+  {
+    "id": "provar",
+    "infinitive": "provar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Demonstrar a verdade de algo; também experimentar.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "demonstrar",
+      "experimentar",
+      "comprovar"
+    ],
+    "examples": [
+      "Prove este doce de leite!",
+      "Ele provou que estava certo.",
+      "Provamos várias roupas na loja."
+    ]
+  },
+  {
+    "id": "acordar",
+    "infinitive": "acordar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Despertar do sono; também chegar a um acordo.",
+    "transitivity": "intransitivo e transitivo direto",
+    "synonyms": [
+      "despertar",
+      "combinar",
+      "pactuar"
+    ],
+    "examples": [
+      "Acordo às seis todos os dias.",
+      "O barulho acordou o bebê.",
+      "As duas partes acordaram um novo prazo."
+    ]
+  },
+  {
+    "id": "deitar",
+    "infinitive": "deitar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Estender o corpo na horizontal ou pôr algo deitado.",
+    "transitivity": "intransitivo, transitivo direto e pronominal",
+    "synonyms": [
+      "recostar",
+      "estender",
+      "repousar"
+    ],
+    "examples": [
+      "Deito cedo durante a semana.",
+      "Ela deitou o bebê no berço.",
+      "Deitamo-nos na grama para ver as nuvens."
+    ]
+  },
+  {
+    "id": "levantar",
+    "infinitive": "levantar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Erguer algo; pôr-se de pé ou sair da cama.",
+    "transitivity": "transitivo direto, intransitivo e pronominal",
+    "synonyms": [
+      "erguer",
+      "elevar",
+      "alçar"
+    ],
+    "examples": [
+      "Levantei às cinco para pegar o voo.",
+      "Levante a mão se souber a resposta.",
+      "Os alunos se levantaram quando o diretor entrou."
+    ]
+  },
+  {
+    "id": "sentar",
+    "infinitive": "sentar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Apoiar o corpo em um assento ou no chão, dobrando as pernas.",
+    "transitivity": "intransitivo e pronominal",
+    "synonyms": [
+      "assentar",
+      "acomodar-se",
+      "instalar-se"
+    ],
+    "examples": [
+      "Sente-se aqui ao meu lado.",
+      "Sentamos na primeira fileira do teatro.",
+      "O cachorro senta quando ouve o comando."
+    ]
+  },
+  {
+    "id": "descansar",
+    "infinitive": "descansar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Repousar para recuperar as forças.",
+    "transitivity": "intransitivo e transitivo direto",
+    "synonyms": [
+      "repousar",
+      "relaxar",
+      "folgar"
+    ],
+    "examples": [
+      "Descansei bastante no feriado.",
+      "Descanse um pouco antes de continuar.",
+      "Os jogadores descansarão até a final."
+    ]
+  },
+  {
+    "id": "acompanhar",
+    "infinitive": "acompanhar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Ir junto com alguém; também seguir o desenvolvimento de algo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "seguir",
+      "escoltar",
+      "assistir"
+    ],
+    "examples": [
+      "Acompanhei minha avó ao médico.",
+      "Você acompanha aquela série?",
+      "Acompanharemos os resultados pela televisão."
+    ]
+  },
+  {
+    "id": "conversar",
+    "infinitive": "conversar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Trocar ideias e palavras com alguém.",
+    "transitivity": "transitivo indireto e intransitivo",
+    "synonyms": [
+      "dialogar",
+      "falar",
+      "papear"
+    ],
+    "examples": [
+      "Conversamos durante horas no café.",
+      "Converse com seus pais sobre isso.",
+      "Elas conversavam baixinho na biblioteca."
+    ]
+  },
+  {
+    "id": "demorar",
+    "infinitive": "demorar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Levar mais tempo do que o esperado.",
+    "transitivity": "intransitivo e transitivo indireto",
+    "synonyms": [
+      "tardar",
+      "atrasar",
+      "custar"
+    ],
+    "examples": [
+      "O ônibus demorou vinte minutos.",
+      "Não demore, o filme já vai começar!",
+      "Quanto tempo você demora para chegar?"
+    ]
+  },
+  {
+    "id": "desejar",
+    "infinitive": "desejar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Querer muito algo; também expressar votos a alguém.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "querer",
+      "almejar",
+      "ansiar"
+    ],
+    "examples": [
+      "Desejo boa sorte a todos na prova.",
+      "Ela desejava conhecer Portugal.",
+      "Desejamos um feliz aniversário ao colega."
+    ]
+  },
+  {
+    "id": "economizar",
+    "infinitive": "economizar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Gastar menos; poupar recursos.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "poupar",
+      "guardar",
+      "reservar"
+    ],
+    "examples": [
+      "Economizamos água durante a seca.",
+      "Ele economizou para comprar uma bicicleta.",
+      "Economize energia apagando as luzes."
+    ]
+  },
+  {
+    "id": "emprestar",
+    "infinitive": "emprestar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Ceder algo por um tempo, com a condição de que seja devolvido.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "ceder",
+      "dispor",
+      "fornecer"
+    ],
+    "examples": [
+      "Emprestei meu livro para a Júlia.",
+      "Você me empresta uma caneta?",
+      "O banco emprestará o dinheiro à empresa."
+    ]
+  },
+  {
+    "id": "errar",
+    "infinitive": "errar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Cometer um engano; não acertar.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "enganar-se",
+      "falhar",
+      "equivocar-se"
+    ],
+    "examples": [
+      "Errei duas questões da prova.",
+      "Errando também se aprende.",
+      "Se errarmos, tentaremos de novo."
+    ]
+  },
+  {
+    "id": "evitar",
+    "infinitive": "evitar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Procurar não fazer algo ou impedir que aconteça.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "impedir",
+      "prevenir",
+      "esquivar-se de"
+    ],
+    "examples": [
+      "Evito doces durante a semana.",
+      "O goleiro evitou o gol no último minuto.",
+      "Evitem o uso de celular na sala."
+    ]
+  },
+  {
+    "id": "explorar",
+    "infinitive": "explorar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Percorrer um lugar para conhecê-lo; investigar a fundo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "investigar",
+      "percorrer",
+      "desbravar"
+    ],
+    "examples": [
+      "Exploramos a trilha da cachoeira.",
+      "Os cientistas exploraram o fundo do oceano.",
+      "Explore todas as funções do aplicativo."
+    ]
+  },
+  {
+    "id": "faltar",
+    "infinitive": "faltar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Não estar presente; também ser insuficiente.",
+    "transitivity": "transitivo indireto e intransitivo",
+    "synonyms": [
+      "ausentar-se",
+      "carecer",
+      "escassear"
+    ],
+    "examples": [
+      "Faltei à aula porque estava doente.",
+      "Falta sal na sopa.",
+      "Faltaram cadeiras para todos os convidados."
+    ]
+  },
+  {
+    "id": "fechar",
+    "infinitive": "fechar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Fazer com que algo deixe de estar aberto; também encerrar.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "cerrar",
+      "trancar",
+      "encerrar"
+    ],
+    "examples": [
+      "Feche a janela, está ventando.",
+      "A loja fecha às oito da noite.",
+      "Fechamos o acordo depois da reunião."
+    ]
+  },
+  {
+    "id": "gravar",
+    "infinitive": "gravar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Registrar sons ou imagens; também entalhar em superfície dura.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "registrar",
+      "filmar",
+      "entalhar"
+    ],
+    "examples": [
+      "Gravamos um vídeo para o trabalho.",
+      "A banda gravará um novo disco.",
+      "O artesão gravou o nome na madeira."
+    ]
+  },
+  {
+    "id": "imaginar",
+    "infinitive": "imaginar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Formar imagens ou ideias na mente; supor.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "supor",
+      "idealizar",
+      "conceber"
+    ],
+    "examples": [
+      "Imagine um mundo sem plástico.",
+      "Nunca imaginei que fosse tão fácil.",
+      "As crianças imaginavam castelos nas nuvens."
+    ]
+  },
+  {
+    "id": "importar",
+    "infinitive": "importar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Trazer mercadorias de outro país; também ter relevância.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "introduzir",
+      "interessar",
+      "valer"
+    ],
+    "examples": [
+      "O Brasil importa trigo da Argentina.",
+      "Não me importa a opinião deles.",
+      "A loja importou novos produtos."
+    ]
+  },
+  {
+    "id": "melhorar",
+    "infinitive": "melhorar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Tornar ou ficar melhor.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "aperfeiçoar",
+      "aprimorar",
+      "progredir"
+    ],
+    "examples": [
+      "Minhas notas melhoraram muito.",
+      "Melhore sua letra com exercícios.",
+      "O tempo melhorará no fim de semana."
+    ]
+  },
+  {
+    "id": "mergulhar",
+    "infinitive": "mergulhar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Entrar inteiramente na água; também aprofundar-se em algo.",
+    "transitivity": "intransitivo, transitivo indireto e transitivo direto",
+    "synonyms": [
+      "imergir",
+      "afundar",
+      "submergir"
+    ],
+    "examples": [
+      "Mergulhamos no mar de Fernando de Noronha.",
+      "Ela mergulhou nos estudos antes do vestibular.",
+      "Não mergulhe em água rasa."
+    ]
+  },
+  {
+    "id": "molhar",
+    "infinitive": "molhar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Tornar úmido com água ou outro líquido.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "umedecer",
+      "encharcar",
+      "regar"
+    ],
+    "examples": [
+      "A chuva molhou toda a roupa do varal.",
+      "Molhe as plantas pela manhã.",
+      "Nós nos molhávamos na mangueira no verão."
+    ]
+  },
+  {
+    "id": "montar",
+    "infinitive": "montar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Juntar peças para formar algo; também subir em um animal ou veículo.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "armar",
+      "construir",
+      "cavalgar"
+    ],
+    "examples": [
+      "Montamos o quebra-cabeça de mil peças.",
+      "Ela monta a cavalo desde pequena.",
+      "Montaremos a barraca perto do lago."
+    ]
+  },
+  {
+    "id": "observar",
+    "infinitive": "observar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Olhar com atenção; também comentar ou cumprir uma regra.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "examinar",
+      "notar",
+      "reparar"
+    ],
+    "examples": [
+      "Observamos as estrelas com o telescópio.",
+      "Observe como a planta cresce em direção à luz.",
+      "O cientista observava o comportamento das formigas."
+    ]
+  },
+  {
+    "id": "pesquisar",
+    "infinitive": "pesquisar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Buscar informações de forma organizada sobre um assunto.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "investigar",
+      "estudar",
+      "procurar"
+    ],
+    "examples": [
+      "Pesquisei a história da minha cidade.",
+      "Os alunos pesquisam na biblioteca.",
+      "Pesquisaremos preços antes de comprar."
+    ]
+  },
+  {
+    "id": "planejar",
+    "infinitive": "planejar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Organizar com antecedência as etapas de algo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "programar",
+      "projetar",
+      "organizar"
+    ],
+    "examples": [
+      "Planejamos as férias com seis meses de antecedência.",
+      "Ela planeja abrir uma padaria.",
+      "Planeje seu tempo de estudo."
+    ]
+  },
+  {
+    "id": "plantar",
+    "infinitive": "plantar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Colocar sementes ou mudas na terra para que cresçam.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "semear",
+      "cultivar",
+      "fincar"
+    ],
+    "examples": [
+      "Plantamos tomates na horta da escola.",
+      "Meu avô plantou aquela mangueira.",
+      "Plante as sementes na primavera."
+    ]
+  },
+  {
+    "id": "quebrar",
+    "infinitive": "quebrar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Partir em pedaços; também danificar ou deixar de funcionar.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "partir",
+      "romper",
+      "estragar"
+    ],
+    "examples": [
+      "O copo caiu e quebrou.",
+      "Quebrei o braço jogando futebol.",
+      "Não quebre a promessa que fez."
+    ]
+  },
+  {
+    "id": "reclamar",
+    "infinitive": "reclamar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Manifestar insatisfação; também exigir um direito.",
+    "transitivity": "transitivo indireto, transitivo direto e intransitivo",
+    "synonyms": [
+      "queixar-se",
+      "protestar",
+      "exigir"
+    ],
+    "examples": [
+      "Os clientes reclamaram do atendimento.",
+      "Ele reclama de tudo!",
+      "Reclamaremos a devolução do dinheiro."
+    ]
+  },
+  {
+    "id": "respirar",
+    "infinitive": "respirar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Absorver e expelir o ar dos pulmões.",
+    "transitivity": "intransitivo e transitivo direto",
+    "synonyms": [
+      "inspirar",
+      "inalar",
+      "arfar"
+    ],
+    "examples": [
+      "Respire fundo antes de começar.",
+      "Respiramos o ar puro da montanha.",
+      "O paciente já respira sem aparelhos."
+    ]
+  },
+  {
+    "id": "tentar",
+    "infinitive": "tentar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Fazer esforço para conseguir algo; experimentar.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "procurar",
+      "experimentar",
+      "arriscar"
+    ],
+    "examples": [
+      "Tentei abrir o pote, mas não consegui.",
+      "Tente outra vez!",
+      "Tentaremos chegar antes do almoço."
+    ]
+  },
+  {
+    "id": "completar",
+    "infinitive": "completar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Tornar algo inteiro ou acabado; também atingir certa idade.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "concluir",
+      "preencher",
+      "inteirar"
+    ],
+    "examples": [
+      "Complete as lacunas do exercício.",
+      "Minha irmã completou quinze anos.",
+      "Completaremos o álbum de figurinhas logo."
+    ]
+  },
+  {
+    "id": "combinar",
+    "infinitive": "combinar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Juntar elementos de forma harmoniosa; também fazer um acordo.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "ajustar",
+      "harmonizar",
+      "acertar"
+    ],
+    "examples": [
+      "Combinamos de nos encontrar às três.",
+      "Essa blusa combina com a saia.",
+      "Combinem as cores do cartaz com cuidado."
+    ]
+  },
+  {
+    "id": "decorar",
+    "infinitive": "decorar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Enfeitar um ambiente; também memorizar.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "enfeitar",
+      "ornamentar",
+      "memorizar"
+    ],
+    "examples": [
+      "Decoramos a sala para a festa junina.",
+      "Ela decorou todas as falas da peça.",
+      "Decore a tabuada até sexta-feira."
+    ]
+  },
+  {
+    "id": "cheirar",
+    "infinitive": "cheirar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Sentir o odor de algo; também exalar cheiro.",
+    "transitivity": "transitivo direto, intransitivo e transitivo indireto",
+    "synonyms": [
+      "farejar",
+      "aspirar",
+      "exalar"
+    ],
+    "examples": [
+      "Cheire esta flor, que perfume!",
+      "A cozinha cheirava a bolo de milho.",
+      "O cachorro cheirou a mochila toda."
+    ]
+  },
+  {
+    "id": "atrasar",
+    "infinitive": "atrasar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Chegar depois do horário ou fazer algo demorar.",
+    "transitivity": "intransitivo, transitivo direto e pronominal",
+    "synonyms": [
+      "retardar",
+      "demorar",
+      "adiar"
+    ],
+    "examples": [
+      "O voo atrasou duas horas.",
+      "Não se atrase para a prova.",
+      "A chuva atrasará a obra."
+    ]
+  },
+  {
+    "id": "avisar",
+    "infinitive": "avisar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Dar notícia ou alerta a alguém.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "informar",
+      "alertar",
+      "prevenir"
+    ],
+    "examples": [
+      "Avise-me quando chegar.",
+      "A diretora avisou os pais sobre a reunião.",
+      "Avisaremos você se houver mudança."
+    ]
+  },
+  {
+    "id": "cansar",
+    "infinitive": "cansar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Perder as forças por esforço; também aborrecer.",
+    "transitivity": "intransitivo, transitivo direto e pronominal",
+    "synonyms": [
+      "fatigar",
+      "esgotar",
+      "enfadar"
+    ],
+    "examples": [
+      "Cansei depois da corrida.",
+      "A viagem longa cansou as crianças.",
+      "Ela nunca se cansa de estudar."
+    ]
+  },
+  {
+    "id": "casar",
+    "infinitive": "casar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Unir-se em matrimônio; também combinar bem.",
+    "transitivity": "intransitivo, transitivo indireto e pronominal",
+    "synonyms": [
+      "desposar",
+      "unir-se",
+      "combinar"
+    ],
+    "examples": [
+      "Meus pais casaram em 2005.",
+      "Eles se casarão na primavera.",
+      "Essas cores casam bem."
+    ]
+  },
+  {
+    "id": "assustar",
+    "infinitive": "assustar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Causar medo ou susto.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "amedrontar",
+      "espantar",
+      "sobressaltar"
+    ],
+    "examples": [
+      "O trovão assustou o cachorro.",
+      "Não se assuste, é só o vento.",
+      "As cenas do filme assustavam a plateia."
+    ]
+  },
+  {
+    "id": "aproveitar",
+    "infinitive": "aproveitar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Tirar proveito ou fazer bom uso de algo.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "desfrutar",
+      "utilizar",
+      "usufruir"
+    ],
+    "examples": [
+      "Aproveitamos o sol para ir à praia.",
+      "Aproveite as férias para descansar.",
+      "Ela aproveitava cada minuto livre para ler."
+    ]
+  },
+  {
+    "id": "acreditar",
+    "infinitive": "acreditar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Ter algo como verdadeiro; ter confiança em alguém.",
+    "transitivity": "transitivo indireto e transitivo direto",
+    "synonyms": [
+      "crer",
+      "confiar",
+      "julgar"
+    ],
+    "examples": [
+      "Acredito em você.",
+      "Ninguém acreditou na história do pescador.",
+      "Acreditávamos que o time venceria."
+    ]
+  },
+  {
+    "id": "acertar",
+    "infinitive": "acertar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Atingir o alvo ou a resposta certa; também ajustar.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "atingir",
+      "adivinhar",
+      "ajustar"
+    ],
+    "examples": [
+      "Acertei todas as questões de Ciências.",
+      "A bola acertou a trave.",
+      "Acertaremos os detalhes amanhã."
+    ]
+  },
+  {
+    "id": "anotar",
+    "infinitive": "anotar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Registrar por escrito.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "registrar",
+      "apontar",
+      "escrever"
+    ],
+    "examples": [
+      "Anote o número do meu telefone.",
+      "Anotei tudo o que a professora disse.",
+      "Os alunos anotavam as datas das provas."
+    ]
+  },
+  {
+    "id": "calcular",
+    "infinitive": "calcular",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Fazer contas para chegar a um resultado; também estimar.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "computar",
+      "contar",
+      "estimar"
+    ],
+    "examples": [
+      "Calcule a área do triângulo.",
+      "Calculamos o gasto da viagem.",
+      "O engenheiro calculou o peso da ponte."
+    ]
+  },
+  {
+    "id": "celebrar",
+    "infinitive": "celebrar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Comemorar com festa; também realizar de forma solene.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "comemorar",
+      "festejar",
+      "solenizar"
+    ],
+    "examples": [
+      "Celebramos o fim do ano letivo com um piquenique.",
+      "A cidade celebrará seus cem anos.",
+      "Os noivos celebraram o casamento na praia."
+    ]
+  },
+  {
+    "id": "comemorar",
+    "infinitive": "comemorar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Festejar um acontecimento ou uma data.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "celebrar",
+      "festejar",
+      "homenagear"
+    ],
+    "examples": [
+      "Comemoramos a vitória do time.",
+      "Como você comemorou seu aniversário?",
+      "Comemoraremos o Dia do Professor com uma homenagem."
+    ]
+  },
+  {
+    "id": "conquistar",
+    "infinitive": "conquistar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Obter algo com esforço; também ganhar a simpatia de alguém.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "alcançar",
+      "obter",
+      "cativar"
+    ],
+    "examples": [
+      "A atleta conquistou a medalha de ouro.",
+      "Conquistamos o primeiro lugar no torneio.",
+      "O filhote conquistava todos com seu jeito."
+    ]
+  },
+  {
+    "id": "consultar",
+    "infinitive": "consultar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Buscar informação ou conselho em alguém ou em alguma fonte.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "pesquisar",
+      "examinar",
+      "aconselhar-se com"
+    ],
+    "examples": [
+      "Consulte o dicionário quando tiver dúvidas.",
+      "Consultei o médico ontem.",
+      "Eles consultarão o mapa antes de sair."
+    ]
+  },
+  {
+    "id": "cumprimentar",
+    "infinitive": "cumprimentar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Saudar alguém com palavras ou gestos.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "saudar",
+      "felicitar",
+      "acenar"
+    ],
+    "examples": [
+      "Cumprimentei os vizinhos no elevador.",
+      "Cumprimente todos ao chegar.",
+      "Os jogadores se cumprimentaram após a partida."
+    ]
+  },
+  {
+    "id": "enfrentar",
+    "infinitive": "enfrentar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Colocar-se diante de um desafio ou adversário.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "encarar",
+      "defrontar",
+      "afrontar"
+    ],
+    "examples": [
+      "Enfrentamos uma fila enorme no banco.",
+      "Ela enfrentou o medo de falar em público.",
+      "O time enfrentará o líder do campeonato."
+    ]
+  },
+  {
+    "id": "escovar",
+    "infinitive": "escovar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Limpar ou alisar com escova.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "limpar",
+      "alisar",
+      "esfregar"
+    ],
+    "examples": [
+      "Escovo os dentes três vezes por dia.",
+      "Ela escovou o cabelo antes de sair.",
+      "Escovem o pelo do cachorro com cuidado."
+    ]
+  },
+  {
+    "id": "frequentar",
+    "infinitive": "frequentar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Ir com regularidade a um lugar.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "visitar",
+      "comparecer a",
+      "assistir a"
+    ],
+    "examples": [
+      "Frequento a biblioteca do bairro.",
+      "Eles frequentaram a mesma escola.",
+      "Frequentaremos o curso de inglês à noite."
+    ]
+  },
+  {
+    "id": "inventar",
+    "infinitive": "inventar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Criar algo novo; também imaginar uma história que não é verdadeira.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "criar",
+      "conceber",
+      "engendrar"
+    ],
+    "examples": [
+      "Quem inventou o telefone?",
+      "Ele inventou uma desculpa para faltar.",
+      "Inventamos um jogo novo no recreio."
+    ]
+  },
+  {
+    "id": "recuperar",
+    "infinitive": "recuperar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Voltar a ter o que se perdeu; restabelecer-se.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "reaver",
+      "resgatar",
+      "restabelecer"
+    ],
+    "examples": [
+      "Recuperei a carteira perdida.",
+      "O paciente se recupera bem da cirurgia.",
+      "Recuperaremos o conteúdo nas aulas extras."
+    ]
+  },
+  {
+    "id": "reservar",
+    "infinitive": "reservar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Guardar para uso futuro; garantir um lugar com antecedência.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "guardar",
+      "separar",
+      "agendar"
+    ],
+    "examples": [
+      "Reservei uma mesa para quatro pessoas.",
+      "Reserve um tempo para descansar.",
+      "O hotel reservava os melhores quartos para famílias."
+    ]
+  },
+  {
+    "id": "somar",
+    "infinitive": "somar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Juntar quantidades para obter um total.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "adicionar",
+      "acrescentar",
+      "totalizar"
+    ],
+    "examples": [
+      "Some todos os números da coluna.",
+      "Os pontos somaram cem no final.",
+      "Somamos esforços para concluir o trabalho."
+    ]
+  },
+  {
+    "id": "superar",
+    "infinitive": "superar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Vencer um obstáculo; ir além de algo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "vencer",
+      "ultrapassar",
+      "exceder"
+    ],
+    "examples": [
+      "Ela superou o medo de altura.",
+      "O resultado superou as expectativas.",
+      "Superaremos essa fase juntos."
+    ]
+  },
+  {
+    "id": "tratar",
+    "infinitive": "tratar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Lidar com alguém de certa maneira; também cuidar ou abordar um assunto.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "cuidar",
+      "lidar",
+      "abordar"
+    ],
+    "examples": [
+      "Trate todos com respeito.",
+      "O livro trata da história do Brasil.",
+      "O médico tratou a ferida com cuidado."
+    ]
+  },
+  {
+    "id": "treinar",
+    "infinitive": "treinar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Exercitar-se para melhorar o desempenho em algo.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "praticar",
+      "exercitar",
+      "ensaiar"
+    ],
+    "examples": [
+      "O time treina todas as tardes.",
+      "Treinei a apresentação diante do espelho.",
+      "Treinaremos para a maratona."
+    ]
+  },
+  {
+    "id": "alimentar",
+    "infinitive": "alimentar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Dar alimento; nutrir.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "nutrir",
+      "sustentar",
+      "manter"
+    ],
+    "examples": [
+      "Alimento o gato duas vezes por dia.",
+      "Alimente-se bem antes da prova.",
+      "Os pássaros alimentavam os filhotes no ninho."
+    ]
+  },
+  {
+    "id": "admirar",
+    "infinitive": "admirar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Olhar com encanto; ter apreço por alguém.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "apreciar",
+      "contemplar",
+      "respeitar"
+    ],
+    "examples": [
+      "Admiro muito a minha professora.",
+      "Admiramos o pôr do sol na praia.",
+      "Ela se admirou com o tamanho do navio."
+    ]
+  },
+  {
+    "id": "colaborar",
+    "infinitive": "colaborar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Trabalhar em conjunto; contribuir para algo.",
+    "transitivity": "transitivo indireto e intransitivo",
+    "synonyms": [
+      "cooperar",
+      "contribuir",
+      "ajudar"
+    ],
+    "examples": [
+      "Todos colaboraram com a campanha do agasalho.",
+      "Colabore com a limpeza da sala.",
+      "Colaboraremos com o projeto da comunidade."
+    ]
+  },
+  {
+    "id": "sublinhar",
+    "infinitive": "sublinhar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Traçar uma linha embaixo de palavras; também destacar.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "grifar",
+      "destacar",
+      "salientar"
+    ],
+    "examples": [
+      "Sublinhe os verbos do texto.",
+      "Sublinhei as partes mais importantes.",
+      "O professor sublinhou a importância da leitura."
+    ]
+  },
+  {
+    "id": "desculpar",
+    "infinitive": "desculpar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Perdoar alguém; também pedir perdão.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "perdoar",
+      "relevar",
+      "justificar"
+    ],
+    "examples": [
+      "Desculpe pelo atraso.",
+      "Ela se desculpou com a amiga.",
+      "Desculpamos o erro do colega."
+    ]
+  },
+  {
+    "id": "escalar",
+    "infinitive": "escalar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Subir em montanhas ou paredes; também designar alguém para uma tarefa.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "subir",
+      "galgar",
+      "designar"
+    ],
+    "examples": [
+      "Escalamos a montanha em seis horas.",
+      "O técnico escalou o time titular.",
+      "Ela escala paredes de pedra nos fins de semana."
+    ]
+  },
+  {
+    "id": "apontar",
+    "infinitive": "apontar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Indicar com o dedo; também fazer ponta em lápis.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "indicar",
+      "mostrar",
+      "assinalar"
+    ],
+    "examples": [
+      "Aponte o lápis antes da prova.",
+      "O guia apontou para o vulcão.",
+      "As pesquisas apontam uma melhora no ensino."
+    ]
+  },
+  {
+    "id": "vender",
+    "infinitive": "vender",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Ceder algo a alguém em troca de dinheiro.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "negociar",
+      "comercializar",
+      "trocar"
+    ],
+    "examples": [
+      "Vendemos limonada na feira da escola.",
+      "Ele vendeu a bicicleta usada.",
+      "A padaria vende pão quentinho às seis."
+    ]
+  },
+  {
+    "id": "beber",
+    "infinitive": "beber",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Ingerir um líquido.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "tomar",
+      "ingerir",
+      "sorver"
+    ],
+    "examples": [
+      "Beba bastante água no calor.",
+      "Bebemos suco de caju no almoço.",
+      "Quando era criança, eu bebia leite todo dia."
+    ]
+  },
+  {
+    "id": "aprender",
+    "infinitive": "aprender",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Adquirir conhecimento ou habilidade por meio de estudo, prática ou experiência.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "assimilar",
+      "estudar",
+      "compreender"
+    ],
+    "examples": [
+      "Aprendi a nadar aos seis anos.",
+      "Aprendemos muito com nossos erros.",
+      "Ela aprenderá francês no intercâmbio."
+    ]
+  },
+  {
+    "id": "comer",
+    "infinitive": "comer",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Mastigar e engolir alimentos.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "alimentar-se",
+      "ingerir",
+      "saborear"
+    ],
+    "examples": [
+      "Comemos pizza no sábado.",
+      "Coma devagar, sem pressa.",
+      "O cachorro comeu toda a ração."
+    ]
+  },
+  {
+    "id": "correr",
+    "infinitive": "correr",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Deslocar-se depressa, com passadas rápidas.",
+    "transitivity": "intransitivo e transitivo direto",
+    "synonyms": [
+      "disparar",
+      "apressar-se",
+      "galopar"
+    ],
+    "examples": [
+      "Corro no parque todas as manhãs.",
+      "Os meninos correram até o portão.",
+      "Se corrermos, pegaremos o ônibus."
+    ]
+  },
+  {
+    "id": "escrever",
+    "infinitive": "escrever",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Representar palavras e ideias por meio de letras e sinais.",
+    "transitivity": "transitivo direto, intransitivo e transitivo direto e indireto",
+    "synonyms": [
+      "redigir",
+      "grafar",
+      "anotar"
+    ],
+    "examples": [
+      "Escrevo no diário antes de dormir.",
+      "Ela escreveu uma carta para a avó.",
+      "Escreveremos a redação em dupla."
+    ]
+  },
+  {
+    "id": "viver",
+    "infinitive": "viver",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Ter vida; também morar ou passar por uma experiência.",
+    "transitivity": "intransitivo, transitivo direto e transitivo indireto",
+    "synonyms": [
+      "existir",
+      "morar",
+      "experimentar"
+    ],
+    "examples": [
+      "Minha bisavó viveu cem anos.",
+      "Vivemos em uma cidade pequena.",
+      "Viva cada dia com alegria."
+    ]
+  },
+  {
+    "id": "receber",
+    "infinitive": "receber",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Aceitar ou tomar o que é dado ou enviado; também acolher visitas.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "ganhar",
+      "obter",
+      "acolher"
+    ],
+    "examples": [
+      "Recebi uma carta da minha prima.",
+      "Recebemos os convidados com um lanche.",
+      "Eles receberão o prêmio na sexta."
+    ]
+  },
+  {
+    "id": "responder",
+    "infinitive": "responder",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Dar resposta a uma pergunta ou a um chamado.",
+    "transitivity": "transitivo direto, transitivo indireto e transitivo direto e indireto",
+    "synonyms": [
+      "replicar",
+      "retrucar",
+      "contestar"
+    ],
+    "examples": [
+      "Respondi a todas as mensagens.",
+      "Responda às perguntas com atenção.",
+      "Ela respondeu que chegaria tarde."
+    ]
+  },
+  {
+    "id": "entender",
+    "infinitive": "entender",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Compreender o sentido de algo; também ter conhecimento sobre um assunto.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "compreender",
+      "perceber",
+      "captar"
+    ],
+    "examples": [
+      "Entendi a explicação de primeira.",
+      "Meu tio entende de carros.",
+      "Vocês entenderam o exercício?"
+    ]
+  },
+  {
+    "id": "compreender",
+    "infinitive": "compreender",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Perceber o significado de algo; também abranger.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "entender",
+      "captar",
+      "abranger"
+    ],
+    "examples": [
+      "Compreendo sua preocupação.",
+      "Os alunos compreenderam a regra.",
+      "O curso compreende dez módulos."
+    ]
+  },
+  {
+    "id": "depender",
+    "infinitive": "depender",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Estar sujeito a algo ou alguém; precisar de apoio.",
+    "transitivity": "transitivo indireto (depender de algo)",
+    "synonyms": [
+      "subordinar-se",
+      "sujeitar-se",
+      "precisar"
+    ],
+    "examples": [
+      "O passeio depende do tempo.",
+      "Os filhotes dependem da mãe.",
+      "Tudo dependerá do resultado da prova."
+    ]
+  },
+  {
+    "id": "defender",
+    "infinitive": "defender",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Proteger contra ataque ou perigo; também sustentar uma ideia.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "proteger",
+      "resguardar",
+      "sustentar"
+    ],
+    "examples": [
+      "O goleiro defendeu o pênalti.",
+      "Ela defendeu sua tese com segurança.",
+      "Defenderemos a preservação do parque."
+    ]
+  },
+  {
+    "id": "ofender",
+    "infinitive": "ofender",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Magoar alguém com palavras ou atitudes.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "magoar",
+      "insultar",
+      "melindrar"
+    ],
+    "examples": [
+      "Ninguém quis ofender você com a brincadeira.",
+      "Ele se ofendeu com o comentário.",
+      "Palavras grosseiras ofendem as pessoas."
+    ]
+  },
+  {
+    "id": "surpreender",
+    "infinitive": "surpreender",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Causar espanto com algo inesperado.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "espantar",
+      "admirar",
+      "assombrar"
+    ],
+    "examples": [
+      "A festa surpreendeu a aniversariante.",
+      "Surpreendi-me com a nota da prova.",
+      "O final do livro surpreenderá os leitores."
+    ]
+  },
+  {
+    "id": "empreender",
+    "infinitive": "empreender",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Pôr em execução um projeto ou iniciar um negócio.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "realizar",
+      "iniciar",
+      "executar"
+    ],
+    "examples": [
+      "Ela empreendeu uma viagem pela América do Sul.",
+      "Muitos jovens empreendem na área de tecnologia.",
+      "Empreenderemos uma campanha de reciclagem."
+    ]
+  },
+  {
+    "id": "sofrer",
+    "infinitive": "sofrer",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Sentir dor física ou moral; também passar por algo desagradável.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "padecer",
+      "suportar",
+      "penar"
+    ],
+    "examples": [
+      "O time sofreu uma derrota inesperada.",
+      "Sofri com a gripe a semana toda.",
+      "As plantas sofrem com a falta de chuva."
+    ]
+  },
+  {
+    "id": "ocorrer",
+    "infinitive": "ocorrer",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Acontecer; também vir à mente.",
+    "transitivity": "intransitivo e transitivo indireto",
+    "synonyms": [
+      "acontecer",
+      "suceder",
+      "surgir"
+    ],
+    "examples": [
+      "O acidente ocorreu na esquina.",
+      "Ocorreu-me uma ideia ótima.",
+      "O eclipse ocorrerá no próximo mês."
+    ]
+  },
+  {
+    "id": "percorrer",
+    "infinitive": "percorrer",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Andar por todo um espaço ou trajeto.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "atravessar",
+      "cruzar",
+      "andar"
+    ],
+    "examples": [
+      "Percorremos dez quilômetros de bicicleta.",
+      "O ônibus percorre o centro da cidade.",
+      "Os peregrinos percorreram o caminho a pé."
+    ]
+  },
+  {
+    "id": "socorrer",
+    "infinitive": "socorrer",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Prestar ajuda a quem está em perigo ou necessidade.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "ajudar",
+      "acudir",
+      "amparar"
+    ],
+    "examples": [
+      "Os bombeiros socorreram as famílias ilhadas pela enchente.",
+      "Socorra quem precisar de você.",
+      "Uma vizinha nos socorreu quando o carro quebrou."
+    ]
+  },
+  {
+    "id": "recorrer",
+    "infinitive": "recorrer",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Pedir ajuda ou buscar apoio em alguém ou algo; também apelar de uma decisão.",
+    "transitivity": "transitivo indireto",
+    "synonyms": [
+      "apelar",
+      "valer-se",
+      "servir-se"
+    ],
+    "examples": [
+      "Recorri ao dicionário para entender a palavra.",
+      "O advogado recorrerá da decisão.",
+      "Sempre recorremos aos avós nas emergências."
+    ]
+  },
+  {
+    "id": "concorrer",
+    "infinitive": "concorrer",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Disputar algo com outros candidatos; também contribuir para um resultado.",
+    "transitivity": "transitivo indireto e intransitivo",
+    "synonyms": [
+      "competir",
+      "disputar",
+      "contribuir"
+    ],
+    "examples": [
+      "Concorri a uma bolsa de estudos.",
+      "Cinco filmes concorrem ao prêmio.",
+      "Vários fatores concorreram para o sucesso."
+    ]
+  },
+  {
+    "id": "prometer",
+    "infinitive": "prometer",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Comprometer-se a fazer ou dar algo.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "garantir",
+      "assegurar",
+      "jurar"
+    ],
+    "examples": [
+      "Prometo que chegarei cedo.",
+      "Ela prometeu ajudar na mudança.",
+      "O dia promete sol e calor."
+    ]
+  },
+  {
+    "id": "cometer",
+    "infinitive": "cometer",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Praticar uma ação, em geral um erro ou uma falta.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "praticar",
+      "fazer",
+      "incorrer em"
+    ],
+    "examples": [
+      "Cometi um erro de digitação.",
+      "O jogador cometeu falta na área.",
+      "Não cometam os mesmos enganos."
+    ]
+  },
+  {
+    "id": "submeter",
+    "infinitive": "submeter",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Apresentar algo para avaliação; também sujeitar alguém ou algo a uma condição.",
+    "transitivity": "transitivo direto, transitivo direto e indireto e pronominal",
+    "synonyms": [
+      "apresentar",
+      "sujeitar",
+      "subordinar"
+    ],
+    "examples": [
+      "Submetemos o projeto à banca.",
+      "Ela se submeteu a uma cirurgia simples.",
+      "Os textos serão submetidos a revisão."
+    ]
+  },
+  {
+    "id": "temer",
+    "infinitive": "temer",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Sentir medo de algo; recear.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "recear",
+      "ter medo de",
+      "assustar-se com"
+    ],
+    "examples": [
+      "Temo que chova no passeio.",
+      "Os marinheiros temiam a tempestade.",
+      "Não tema o desconhecido."
+    ]
+  },
+  {
+    "id": "tremer",
+    "infinitive": "tremer",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Agitar-se com movimentos rápidos e involuntários.",
+    "transitivity": "intransitivo",
+    "synonyms": [
+      "estremecer",
+      "tiritar",
+      "vibrar"
+    ],
+    "examples": [
+      "Tremi de frio na fila do cinema.",
+      "O chão tremeu com a passagem do trem.",
+      "Suas mãos tremiam antes da apresentação."
+    ]
+  },
+  {
+    "id": "varrer",
+    "infinitive": "varrer",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Limpar o chão com vassoura; também remover por completo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "limpar",
+      "arrastar",
+      "eliminar"
+    ],
+    "examples": [
+      "Varri a calçada pela manhã.",
+      "Varra a sala antes de a visita chegar.",
+      "O vento varreu as folhas secas."
+    ]
+  },
+  {
+    "id": "bater",
+    "infinitive": "bater",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Dar golpes ou pancadas; também tocar ou superar uma marca.",
+    "transitivity": "transitivo direto, transitivo indireto e intransitivo",
+    "synonyms": [
+      "golpear",
+      "tocar",
+      "vencer"
+    ],
+    "examples": [
+      "Bata à porta antes de entrar.",
+      "O coração batia acelerado.",
+      "Ela bateu o recorde da escola."
+    ]
+  },
+  {
+    "id": "combater",
+    "infinitive": "combater",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Lutar contra algo; esforçar-se para eliminar um problema.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "enfrentar",
+      "lutar contra",
+      "opor-se a"
+    ],
+    "examples": [
+      "A campanha combate o desperdício de comida.",
+      "Combatemos a dengue limpando os quintais.",
+      "Os médicos combateram a epidemia com vacinas."
+    ]
+  },
+  {
+    "id": "debater",
+    "infinitive": "debater",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Discutir um assunto apresentando argumentos.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "discutir",
+      "argumentar",
+      "deliberar"
+    ],
+    "examples": [
+      "Debatemos o tema da redação em sala.",
+      "Os candidatos debaterão na TV hoje.",
+      "A turma debatia sobre meio ambiente."
+    ]
+  },
+  {
+    "id": "ceder",
+    "infinitive": "ceder",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Dar ou entregar algo a alguém; também deixar de resistir.",
+    "transitivity": "transitivo direto, transitivo direto e indireto e intransitivo",
+    "synonyms": [
+      "conceder",
+      "entregar",
+      "render-se"
+    ],
+    "examples": [
+      "Cedi meu lugar a uma senhora no ônibus.",
+      "A ponte cedeu com o peso.",
+      "Ele cederá a sala para a reunião."
+    ]
+  },
+  {
+    "id": "conceder",
+    "infinitive": "conceder",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Dar ou permitir algo como favor ou direito.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "outorgar",
+      "permitir",
+      "dar"
+    ],
+    "examples": [
+      "A escola concedeu uma bolsa ao aluno.",
+      "Concedam-me um minuto, por favor.",
+      "O juiz concederá mais prazo."
+    ]
+  },
+  {
+    "id": "exceder",
+    "infinitive": "exceder",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Ir além de um limite.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "ultrapassar",
+      "superar",
+      "extrapolar"
+    ],
+    "examples": [
+      "O carro excedeu a velocidade permitida.",
+      "Não exceda o limite de bagagem.",
+      "A procura excedeu nossas expectativas."
+    ]
+  },
+  {
+    "id": "proceder",
+    "infinitive": "proceder",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Agir de determinada maneira; também ter origem em algum lugar.",
+    "transitivity": "intransitivo e transitivo indireto",
+    "synonyms": [
+      "agir",
+      "comportar-se",
+      "provir"
+    ],
+    "examples": [
+      "Procedemos conforme as regras.",
+      "Essa reclamação não procede.",
+      "Os turistas procediam de vários países."
+    ]
+  },
+  {
+    "id": "suceder",
+    "infinitive": "suceder",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Acontecer; também vir depois ou substituir alguém.",
+    "transitivity": "transitivo indireto e intransitivo",
+    "synonyms": [
+      "acontecer",
+      "ocorrer",
+      "substituir"
+    ],
+    "examples": [
+      "O que sucedeu ontem na reunião?",
+      "A filha sucederá o pai na empresa.",
+      "Aos dias de chuva sucederam dias de sol."
+    ]
+  },
+  {
+    "id": "dever",
+    "infinitive": "dever",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Ter obrigação de fazer algo; também ter uma dívida.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "precisar",
+      "ter de",
+      "estar obrigado a"
+    ],
+    "examples": [
+      "Devo entregar o trabalho amanhã.",
+      "Ele me devia dez reais.",
+      "Vocês deveriam descansar mais."
+    ]
+  },
+  {
+    "id": "descrever",
+    "infinitive": "descrever",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Representar algo em palavras, detalhando suas características.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "retratar",
+      "relatar",
+      "explicar"
+    ],
+    "examples": [
+      "Descreva o lugar onde você mora.",
+      "A testemunha descreveu o carro.",
+      "O autor descrevia as paisagens com cuidado."
+    ]
+  },
+  {
+    "id": "inscrever",
+    "infinitive": "inscrever",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Registrar o nome de alguém em uma lista; matricular.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "matricular",
+      "registrar",
+      "cadastrar"
+    ],
+    "examples": [
+      "Inscrevi-me no concurso de poesia.",
+      "Os pais inscreveram os filhos no torneio.",
+      "Inscreva seu nome na lista."
+    ]
+  },
+  {
+    "id": "romper",
+    "infinitive": "romper",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Partir com força; também terminar uma relação.",
+    "transitivity": "transitivo direto, transitivo indireto e intransitivo",
+    "synonyms": [
+      "partir",
+      "quebrar",
+      "rasgar"
+    ],
+    "examples": [
+      "O balão rompeu de repente.",
+      "Os dois países romperam relações.",
+      "A fita será rompida na inauguração."
+    ]
+  },
+  {
+    "id": "interromper",
+    "infinitive": "interromper",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Fazer parar por algum tempo; cortar a continuidade de algo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "parar",
+      "suspender",
+      "cortar"
+    ],
+    "examples": [
+      "A chuva interrompeu o jogo.",
+      "Não interrompa quem está falando.",
+      "Desculpe se interrompo sua leitura."
+    ]
+  },
+  {
+    "id": "mexer",
+    "infinitive": "mexer",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Movimentar algo; também tocar ou misturar.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "mover",
+      "misturar",
+      "agitar"
+    ],
+    "examples": [
+      "Mexa a panela para não queimar.",
+      "Quem mexeu nas minhas coisas?",
+      "O filme mexeu comigo."
+    ]
+  },
+  {
+    "id": "absorver",
+    "infinitive": "absorver",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Fazer penetrar em si um líquido; também assimilar ideias.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "sugar",
+      "assimilar",
+      "embeber"
+    ],
+    "examples": [
+      "A esponja absorveu toda a água.",
+      "Os alunos absorvem o conteúdo com facilidade.",
+      "As plantas absorvem nutrientes do solo."
+    ]
+  },
+  {
+    "id": "resolver",
+    "infinitive": "resolver",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Encontrar solução para algo; também decidir.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "solucionar",
+      "decidir",
+      "esclarecer"
+    ],
+    "examples": [
+      "Resolvi todos os exercícios.",
+      "Resolvemos viajar no feriado.",
+      "Resolva o problema com calma."
+    ]
+  },
+  {
+    "id": "devolver",
+    "infinitive": "devolver",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Dar de volta o que foi recebido ou emprestado.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "restituir",
+      "retornar",
+      "entregar"
+    ],
+    "examples": [
+      "Devolvi o livro à biblioteca.",
+      "Devolva a caneta para o colega.",
+      "A loja devolverá o dinheiro."
+    ]
+  },
+  {
+    "id": "desenvolver",
+    "infinitive": "desenvolver",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Fazer crescer ou progredir; também criar ou elaborar.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "ampliar",
+      "progredir",
+      "elaborar"
+    ],
+    "examples": [
+      "O país desenvolveu sua indústria.",
+      "As crianças se desenvolvem rapidamente.",
+      "Desenvolveremos um aplicativo na feira de ciências."
+    ]
+  },
+  {
+    "id": "dissolver",
+    "infinitive": "dissolver",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Fazer uma substância desaparecer em um líquido; também desfazer.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "diluir",
+      "derreter",
+      "desfazer"
+    ],
+    "examples": [
+      "O açúcar se dissolve no café.",
+      "Dissolva o comprimido em água.",
+      "A banda se dissolveu em 2010."
+    ]
+  },
+  {
+    "id": "converter",
+    "infinitive": "converter",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Transformar algo em outra coisa; também mudar de crença ou opinião.",
+    "transitivity": "transitivo direto, transitivo direto e indireto e pronominal",
+    "synonyms": [
+      "transformar",
+      "mudar",
+      "trocar"
+    ],
+    "examples": [
+      "Converti os dólares em reais.",
+      "A usina converte o vento em energia.",
+      "O jogador converteu o pênalti."
+    ]
+  },
+  {
+    "id": "conviver",
+    "infinitive": "conviver",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Viver em companhia de outras pessoas; relacionar-se.",
+    "transitivity": "transitivo indireto e intransitivo",
+    "synonyms": [
+      "coexistir",
+      "relacionar-se",
+      "compartilhar"
+    ],
+    "examples": [
+      "Convivemos bem com os vizinhos.",
+      "Ela conviveu com artistas famosos.",
+      "O gato e o cachorro convivem em paz."
+    ]
+  },
+  {
+    "id": "sobreviver",
+    "infinitive": "sobreviver",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Continuar vivo ou existindo após uma situação difícil.",
+    "transitivity": "transitivo indireto e intransitivo",
+    "synonyms": [
+      "resistir",
+      "subsistir",
+      "durar"
+    ],
+    "examples": [
+      "Os cactos sobrevivem no deserto.",
+      "A planta sobreviveu ao inverno.",
+      "Poucos prédios antigos sobreviveram até hoje."
+    ]
+  },
+  {
+    "id": "perceber",
+    "infinitive": "perceber",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Notar algo por meio dos sentidos ou da inteligência.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "notar",
+      "reparar",
+      "compreender"
+    ],
+    "examples": [
+      "Percebi que estava chovendo.",
+      "Você percebeu a diferença?",
+      "Os alunos perceberão a lógica com a prática."
+    ]
+  },
+  {
+    "id": "conceber",
+    "infinitive": "conceber",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Formar uma ideia ou um plano; também gerar um filho.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "idealizar",
+      "criar",
+      "imaginar"
+    ],
+    "examples": [
+      "O arquiteto concebeu um prédio sustentável.",
+      "Não concebo a vida sem música.",
+      "Concebemos o projeto em uma tarde."
+    ]
+  },
+  {
+    "id": "esconder",
+    "infinitive": "esconder",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Pôr em lugar onde não possa ser visto ou encontrado.",
+    "transitivity": "transitivo direto, transitivo direto e indireto e pronominal",
+    "synonyms": [
+      "ocultar",
+      "guardar",
+      "encobrir"
+    ],
+    "examples": [
+      "Escondi o presente no armário.",
+      "O gato se escondeu embaixo da cama.",
+      "Não esconda a verdade dos seus pais."
+    ]
+  },
+  {
+    "id": "corresponder",
+    "infinitive": "corresponder",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Estar de acordo com algo; também trocar cartas com alguém.",
+    "transitivity": "transitivo indireto e pronominal",
+    "synonyms": [
+      "equivaler",
+      "condizer",
+      "retribuir"
+    ],
+    "examples": [
+      "O resultado correspondeu às expectativas.",
+      "Eu me correspondia com uma amiga do Japão.",
+      "Cada número corresponde a uma letra."
+    ]
+  },
+  {
+    "id": "pretender",
+    "infinitive": "pretender",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Ter a intenção de fazer algo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "planejar",
+      "tencionar",
+      "desejar"
+    ],
+    "examples": [
+      "Pretendo estudar Medicina.",
+      "O que vocês pretendem fazer nas férias?",
+      "Ela pretendia viajar, mas desistiu."
+    ]
+  },
+  {
+    "id": "estender",
+    "infinitive": "estender",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Aumentar em comprimento ou duração; também esticar.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "esticar",
+      "prolongar",
+      "alongar"
+    ],
+    "examples": [
+      "Estendi a roupa no varal.",
+      "A reunião se estendeu até a noite.",
+      "A escola estenderá o prazo de inscrição."
+    ]
+  },
+  {
+    "id": "atender",
+    "infinitive": "atender",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Dar atenção ou resposta a um chamado ou pedido; servir alguém.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "responder",
+      "servir",
+      "receber"
+    ],
+    "examples": [
+      "Atenda o telefone, por favor.",
+      "O médico atendeu vinte pacientes hoje.",
+      "A loja atenderá os clientes até as dez."
+    ]
+  },
+  {
+    "id": "render",
+    "infinitive": "render",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Produzir lucro ou resultado; também entregar-se ao adversário.",
+    "transitivity": "transitivo direto, intransitivo e pronominal",
+    "synonyms": [
+      "produzir",
+      "lucrar",
+      "dar"
+    ],
+    "examples": [
+      "A poupança rendeu pouco este ano.",
+      "O bolo rendeu vinte fatias.",
+      "O time adversário não se rendeu até o fim."
+    ]
+  },
+  {
+    "id": "mover",
+    "infinitive": "mover",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Mudar algo de lugar ou de posição.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "deslocar",
+      "mexer",
+      "movimentar"
+    ],
+    "examples": [
+      "Movemos o sofá para perto da janela.",
+      "Ela não se moveu durante a foto.",
+      "A curiosidade move os cientistas."
+    ]
+  },
+  {
+    "id": "promover",
+    "infinitive": "promover",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Fazer acontecer; também elevar alguém de cargo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "organizar",
+      "realizar",
+      "elevar"
+    ],
+    "examples": [
+      "A escola promoveu uma gincana.",
+      "O gerente foi promovido no mês passado.",
+      "Promoveremos um debate sobre o tema."
+    ]
+  },
+  {
+    "id": "remover",
+    "infinitive": "remover",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Retirar algo de um lugar.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "retirar",
+      "tirar",
+      "eliminar"
+    ],
+    "examples": [
+      "Remova a mancha com água e sabão.",
+      "Removemos os móveis para pintar a sala.",
+      "O técnico removerá o vírus do computador."
+    ]
+  },
+  {
+    "id": "escolher",
+    "infinitive": "escolher",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Preferir uma opção entre várias.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "selecionar",
+      "optar por",
+      "eleger"
+    ],
+    "examples": [
+      "Escolhi o livro de capa azul.",
+      "Escolham um parceiro para o trabalho.",
+      "Que curso você escolherá?"
+    ]
+  },
+  {
+    "id": "acolher",
+    "infinitive": "acolher",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Receber alguém com hospitalidade; também aceitar uma ideia.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "receber",
+      "abrigar",
+      "aceitar"
+    ],
+    "examples": [
+      "A família acolheu o cachorro abandonado.",
+      "Acolhemos bem os novos alunos.",
+      "O abrigo acolherá as famílias desalojadas."
+    ]
+  },
+  {
+    "id": "recolher",
+    "infinitive": "recolher",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Juntar o que está espalhado; também retirar-se para descansar.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "juntar",
+      "apanhar",
+      "coletar"
+    ],
+    "examples": [
+      "Recolha o lixo depois do piquenique.",
+      "O caminhão recolhe o lixo às segundas.",
+      "Recolhemo-nos cedo depois da viagem."
+    ]
+  },
+  {
+    "id": "colher",
+    "infinitive": "colher",
+    "conjugation": 2,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Retirar frutos, flores ou plantas; também obter um resultado.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "apanhar",
+      "recolher",
+      "obter"
+    ],
+    "examples": [
+      "Colhemos laranjas no sítio do meu tio.",
+      "Ela colhe flores para enfeitar a mesa.",
+      "Colheremos os frutos do nosso esforço."
+    ]
+  },
+  {
+    "id": "partir",
+    "infinitive": "partir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Sair de um lugar para outro; também dividir em partes.",
+    "transitivity": "intransitivo e transitivo direto",
+    "synonyms": [
+      "ir embora",
+      "sair",
+      "dividir"
+    ],
+    "examples": [
+      "Partimos de madrugada para a praia.",
+      "Parta o bolo em oito pedaços.",
+      "O trem partirá às nove em ponto."
+    ]
+  },
+  {
+    "id": "abrir",
+    "infinitive": "abrir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Fazer com que algo deixe de estar fechado; também inaugurar.",
+    "transitivity": "transitivo direto, intransitivo e pronominal",
+    "synonyms": [
+      "destampar",
+      "descerrar",
+      "inaugurar"
+    ],
+    "examples": [
+      "Abra a janela, por favor.",
+      "A loja abriu uma filial no centro.",
+      "As flores se abriam com o sol."
+    ]
+  },
+  {
+    "id": "decidir",
+    "infinitive": "decidir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Tomar uma resolução; escolher entre opções.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "resolver",
+      "determinar",
+      "optar"
+    ],
+    "examples": [
+      "Decidi estudar à noite.",
+      "O juiz decidirá o caso amanhã.",
+      "Decidimos pela viagem de trem."
+    ]
+  },
+  {
+    "id": "assistir",
+    "infinitive": "assistir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Ver um espetáculo ou programa; também prestar ajuda a alguém.",
+    "transitivity": "transitivo indireto (assistir a algo: ver) e transitivo direto (dar assistência)",
+    "synonyms": [
+      "ver",
+      "presenciar",
+      "acompanhar"
+    ],
+    "examples": [
+      "Assistimos ao jogo na casa do meu tio.",
+      "Ela assiste a uma série toda noite.",
+      "Os enfermeiros assistem os pacientes com carinho."
+    ]
+  },
+  {
+    "id": "existir",
+    "infinitive": "existir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Ter existência real; haver.",
+    "transitivity": "intransitivo",
+    "synonyms": [
+      "haver",
+      "ser",
+      "viver"
+    ],
+    "examples": [
+      "Existem muitas espécies de borboletas.",
+      "Os dinossauros existiram há milhões de anos.",
+      "Talvez exista vida em outros planetas."
+    ]
+  },
+  {
+    "id": "insistir",
+    "infinitive": "insistir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Pedir ou afirmar algo repetidas vezes; persistir.",
+    "transitivity": "transitivo indireto e intransitivo",
+    "synonyms": [
+      "teimar",
+      "perseverar",
+      "persistir"
+    ],
+    "examples": [
+      "Insisti para que ela ficasse.",
+      "Ele insiste em fazer tudo sozinho.",
+      "Se você insistir, eu aceito."
+    ]
+  },
+  {
+    "id": "desistir",
+    "infinitive": "desistir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Abrir mão de algo; deixar de lado um plano.",
+    "transitivity": "transitivo indireto e intransitivo",
+    "synonyms": [
+      "renunciar",
+      "abandonar",
+      "largar"
+    ],
+    "examples": [
+      "Nunca desista dos seus sonhos.",
+      "Desisti da viagem por causa da chuva.",
+      "Eles desistiram do campeonato."
+    ]
+  },
+  {
+    "id": "resistir",
+    "infinitive": "resistir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Não ceder a uma força, pressão ou tentação.",
+    "transitivity": "transitivo indireto e intransitivo",
+    "synonyms": [
+      "aguentar",
+      "suportar",
+      "opor-se"
+    ],
+    "examples": [
+      "Não resisti ao bolo de chocolate.",
+      "A ponte resistiu à enchente.",
+      "Resistiremos até o fim do jogo."
+    ]
+  },
+  {
+    "id": "persistir",
+    "infinitive": "persistir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Continuar com firmeza; durar.",
+    "transitivity": "transitivo indireto e intransitivo",
+    "synonyms": [
+      "perseverar",
+      "insistir",
+      "continuar"
+    ],
+    "examples": [
+      "A tosse persiste há uma semana.",
+      "Persista nos estudos e verá o resultado.",
+      "Eles persistiram até encontrar a resposta."
+    ]
+  },
+  {
+    "id": "consistir",
+    "infinitive": "consistir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Ser formado por certas partes; ter como essência.",
+    "transitivity": "transitivo indireto (consistir em algo)",
+    "synonyms": [
+      "constituir-se",
+      "compor-se",
+      "resumir-se"
+    ],
+    "examples": [
+      "O trabalho consiste em três etapas.",
+      "A prova consistia em perguntas abertas.",
+      "Em que consistirá a gincana?"
+    ]
+  },
+  {
+    "id": "permitir",
+    "infinitive": "permitir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Dar autorização ou tornar possível.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "autorizar",
+      "consentir",
+      "deixar"
+    ],
+    "examples": [
+      "A escola permite o uso de bicicletas.",
+      "Meus pais me permitiram viajar com a turma.",
+      "O tempo bom permitirá o passeio."
+    ]
+  },
+  {
+    "id": "admitir",
+    "infinitive": "admitir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Reconhecer como verdadeiro; também aceitar alguém em um grupo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "reconhecer",
+      "aceitar",
+      "confessar"
+    ],
+    "examples": [
+      "Admito que estava errado.",
+      "A empresa admitiu dez novos funcionários.",
+      "Ela nunca admitiria a derrota."
+    ]
+  },
+  {
+    "id": "emitir",
+    "infinitive": "emitir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Lançar de si; produzir ou expedir.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "lançar",
+      "expedir",
+      "produzir"
+    ],
+    "examples": [
+      "O sol emite luz e calor.",
+      "O banco emitiu um novo cartão.",
+      "A rádio emitirá o comunicado ao meio-dia."
+    ]
+  },
+  {
+    "id": "transmitir",
+    "infinitive": "transmitir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Fazer passar de um ponto a outro; comunicar.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "passar",
+      "difundir",
+      "comunicar"
+    ],
+    "examples": [
+      "A TV transmitiu o jogo ao vivo.",
+      "A professora transmite calma aos alunos.",
+      "Os mosquitos transmitem doenças."
+    ]
+  },
+  {
+    "id": "garantir",
+    "infinitive": "garantir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Assegurar que algo acontecerá ou é verdadeiro.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "assegurar",
+      "afirmar",
+      "afiançar"
+    ],
+    "examples": [
+      "Garanto que você vai gostar.",
+      "O ingresso garantiu nossa entrada.",
+      "O seguro garantirá o conserto do carro."
+    ]
+  },
+  {
+    "id": "invadir",
+    "infinitive": "invadir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Entrar à força em algum lugar; também espalhar-se por um espaço.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "ocupar",
+      "penetrar",
+      "dominar"
+    ],
+    "examples": [
+      "A água invadiu a garagem.",
+      "Um cheiro de bolo invadia a casa.",
+      "As formigas invadiram a cozinha."
+    ]
+  },
+  {
+    "id": "persuadir",
+    "infinitive": "persuadir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Levar alguém a crer em algo ou a fazer algo por meio de argumentos.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "convencer",
+      "induzir",
+      "mover"
+    ],
+    "examples": [
+      "Persuadi meu pai a adotar um gato.",
+      "O vendedor persuadiu o cliente.",
+      "Persuadiremos a turma a participar."
+    ]
+  },
+  {
+    "id": "definir",
+    "infinitive": "definir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Explicar com precisão o significado de algo; também determinar.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "determinar",
+      "estabelecer",
+      "conceituar"
+    ],
+    "examples": [
+      "Defina a palavra com suas palavras.",
+      "O técnico definiu a escalação.",
+      "Definiremos a data da festa amanhã."
+    ]
+  },
+  {
+    "id": "exibir",
+    "infinitive": "exibir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Mostrar publicamente.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "mostrar",
+      "expor",
+      "apresentar"
+    ],
+    "examples": [
+      "O cinema exibe filmes nacionais.",
+      "Ela exibiu orgulhosa a medalha.",
+      "O museu exibirá obras de Tarsila."
+    ]
+  },
+  {
+    "id": "inibir",
+    "infinitive": "inibir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Impedir ou dificultar uma ação; também causar timidez.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "reprimir",
+      "conter",
+      "intimidar"
+    ],
+    "examples": [
+      "O frio inibe o crescimento das plantas.",
+      "A plateia grande inibiu o menino.",
+      "Não se iniba, pode perguntar."
+    ]
+  },
+  {
+    "id": "unir",
+    "infinitive": "unir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Juntar duas ou mais coisas; também aproximar pessoas.",
+    "transitivity": "transitivo direto, transitivo direto e indireto e pronominal",
+    "synonyms": [
+      "juntar",
+      "ligar",
+      "reunir"
+    ],
+    "examples": [
+      "A ponte une as duas cidades.",
+      "Unimos as mesas para o almoço.",
+      "A turma se uniu para ajudar o colega."
+    ]
+  },
+  {
+    "id": "cumprir",
+    "infinitive": "cumprir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Executar o que foi prometido ou ordenado.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "realizar",
+      "executar",
+      "obedecer"
+    ],
+    "examples": [
+      "Cumpri minha promessa.",
+      "Cumpra as regras do jogo.",
+      "Os alunos cumprirão o prazo."
+    ]
+  },
+  {
+    "id": "nutrir",
+    "infinitive": "nutrir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Fornecer alimento; também manter um sentimento.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "alimentar",
+      "sustentar",
+      "cultivar"
+    ],
+    "examples": [
+      "O leite nutre os bebês.",
+      "Ela nutria grande carinho pela avó.",
+      "Nutrimos a esperança de um mundo melhor."
+    ]
+  },
+  {
+    "id": "discutir",
+    "infinitive": "discutir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Debater um assunto; também desentender-se com palavras.",
+    "transitivity": "transitivo direto, transitivo indireto e intransitivo",
+    "synonyms": [
+      "debater",
+      "argumentar",
+      "altercar"
+    ],
+    "examples": [
+      "Discutimos o livro na roda de leitura.",
+      "Os irmãos discutiram por causa da TV.",
+      "Discuta o tema com seu grupo."
+    ]
+  },
+  {
+    "id": "assumir",
+    "infinitive": "assumir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Tomar para si uma responsabilidade; também admitir algo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "aceitar",
+      "encarregar-se de",
+      "reconhecer"
+    ],
+    "examples": [
+      "Ela assumiu a liderança do grupo.",
+      "Assumo a culpa pelo atraso.",
+      "O novo prefeito assumirá em janeiro."
+    ]
+  },
+  {
+    "id": "resumir",
+    "infinitive": "resumir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Expor algo de forma breve.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "sintetizar",
+      "condensar",
+      "abreviar"
+    ],
+    "examples": [
+      "Resuma o capítulo em cinco linhas.",
+      "Resumimos o texto para o seminário.",
+      "O professor resumiu a matéria no quadro."
+    ]
+  },
+  {
+    "id": "presumir",
+    "infinitive": "presumir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Supor algo com base em indícios.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "supor",
+      "deduzir",
+      "imaginar"
+    ],
+    "examples": [
+      "Presumo que você já tenha jantado.",
+      "O guarda presumiu que fosse um engano.",
+      "Presumimos que a loja estivesse fechada."
+    ]
+  },
+  {
+    "id": "iludir",
+    "infinitive": "iludir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Enganar com falsas aparências.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "enganar",
+      "ludibriar",
+      "lograr"
+    ],
+    "examples": [
+      "Não se iluda com promessas fáceis.",
+      "A propaganda iludiu muitos consumidores.",
+      "O mágico iludia a plateia com truques."
+    ]
+  },
+  {
+    "id": "aplaudir",
+    "infinitive": "aplaudir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Bater palmas em sinal de aprovação.",
+    "transitivity": "transitivo direto e intransitivo",
+    "synonyms": [
+      "ovacionar",
+      "aclamar",
+      "elogiar"
+    ],
+    "examples": [
+      "O público aplaudiu de pé.",
+      "Aplaudimos a apresentação da turma.",
+      "Aplaudam os vencedores!"
+    ]
+  },
+  {
+    "id": "confundir",
+    "infinitive": "confundir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Tomar uma coisa por outra; também deixar alguém perplexo.",
+    "transitivity": "transitivo direto, transitivo direto e indireto e pronominal",
+    "synonyms": [
+      "misturar",
+      "trocar",
+      "atrapalhar"
+    ],
+    "examples": [
+      "Sempre confundo os gêmeos.",
+      "A explicação confundiu os alunos.",
+      "Não se confunda com as datas."
+    ]
+  },
+  {
+    "id": "difundir",
+    "infinitive": "difundir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Espalhar algo amplamente; divulgar.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "divulgar",
+      "propagar",
+      "espalhar"
+    ],
+    "examples": [
+      "A internet difunde informações rapidamente.",
+      "A rádio difundiu a notícia.",
+      "Difundiremos a campanha nas redes."
+    ]
+  },
+  {
+    "id": "dividir",
+    "infinitive": "dividir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Separar em partes; também repartir com alguém.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "partir",
+      "repartir",
+      "separar"
+    ],
+    "examples": [
+      "Dividimos a pizza em oito fatias.",
+      "Divida o número por dois.",
+      "Os irmãos dividiam o mesmo quarto."
+    ]
+  },
+  {
+    "id": "residir",
+    "infinitive": "residir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Morar em determinado lugar; também estar presente em algo.",
+    "transitivity": "transitivo indireto",
+    "synonyms": [
+      "morar",
+      "habitar",
+      "viver"
+    ],
+    "examples": [
+      "Resido em Belo Horizonte há cinco anos.",
+      "O problema reside na falta de atenção.",
+      "Eles residiram no exterior por anos."
+    ]
+  },
+  {
+    "id": "presidir",
+    "infinitive": "presidir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Dirigir uma reunião, uma instituição ou um grupo.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "dirigir",
+      "comandar",
+      "chefiar"
+    ],
+    "examples": [
+      "A diretora presidiu a reunião de pais.",
+      "Quem presidirá a mesa do debate?",
+      "Ela preside o grêmio estudantil."
+    ]
+  },
+  {
+    "id": "coincidir",
+    "infinitive": "coincidir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Acontecer ao mesmo tempo; também ser igual ou concordar.",
+    "transitivity": "transitivo indireto e intransitivo",
+    "synonyms": [
+      "concordar",
+      "combinar",
+      "ajustar-se"
+    ],
+    "examples": [
+      "As provas coincidiram com o feriado.",
+      "Nossas opiniões coincidem.",
+      "Se as datas coincidirem, faremos uma única festa."
+    ]
+  },
+  {
+    "id": "curtir",
+    "infinitive": "curtir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "comum",
+    "level": 1,
+    "definition": "Aproveitar algo com prazer (uso informal); também tratar couro.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "aproveitar",
+      "desfrutar",
+      "apreciar"
+    ],
+    "examples": [
+      "Curtimos muito o show de ontem.",
+      "Curta as férias com a família.",
+      "Ela curte música brasileira."
+    ]
+  }
+]

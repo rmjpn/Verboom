@@ -1,0 +1,1079 @@
+[
+  {
+    "id": "ser",
+    "infinitive": "ser",
+    "conjugation": 2,
+    "flexion": "anomalo",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Ter certa qualidade, natureza ou identidade; também existir ou acontecer.",
+    "transitivity": "verbo de ligação e intransitivo",
+    "synonyms": [
+      "existir",
+      "estar",
+      "constituir"
+    ],
+    "examples": [
+      "Nós somos colegas desde o primeiro ano.",
+      "Ela foi a primeira a chegar.",
+      "Seria ótimo se você viesse à festa."
+    ]
+  },
+  {
+    "id": "ir",
+    "infinitive": "ir",
+    "conjugation": 3,
+    "flexion": "anomalo",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Deslocar-se de um lugar para outro; também servir de auxiliar de futuro.",
+    "transitivity": "intransitivo e transitivo indireto",
+    "synonyms": [
+      "dirigir-se",
+      "seguir",
+      "partir"
+    ],
+    "examples": [
+      "Vou à biblioteca depois da aula.",
+      "Fomos ao cinema no sábado.",
+      "Se eu fosse você, iria mais cedo."
+    ]
+  },
+  {
+    "id": "abolir",
+    "infinitive": "abolir",
+    "conjugation": 3,
+    "flexion": "defectivo",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Pôr fim a uma lei, um costume ou uma prática.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "extinguir",
+      "anular",
+      "suprimir"
+    ],
+    "examples": [
+      "O Brasil aboliu a escravidão em 1888.",
+      "A escola aboliu o uso de uniforme às sextas.",
+      "Abolimos as taxas de inscrição este ano."
+    ]
+  },
+  {
+    "id": "colorir",
+    "infinitive": "colorir",
+    "conjugation": 3,
+    "flexion": "defectivo",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Dar cor a algo; também tornar mais vivo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "pintar",
+      "tingir",
+      "avivar"
+    ],
+    "examples": [
+      "As crianças coloriram o mapa do Brasil.",
+      "Nós colorimos os desenhos com giz de cera.",
+      "As flores coloriam o jardim na primavera."
+    ]
+  },
+  {
+    "id": "falir",
+    "infinitive": "falir",
+    "conjugation": 3,
+    "flexion": "defectivo",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Ir à falência; deixar de ter condições de pagar as dívidas.",
+    "transitivity": "intransitivo",
+    "synonyms": [
+      "quebrar",
+      "arruinar-se",
+      "fracassar"
+    ],
+    "examples": [
+      "A loja da esquina faliu no ano passado.",
+      "Muitas empresas faliram durante a crise.",
+      "Sem clientes, a fábrica faliria em pouco tempo."
+    ]
+  },
+  {
+    "id": "banir",
+    "infinitive": "banir",
+    "conjugation": 3,
+    "flexion": "defectivo",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Expulsar ou proibir de forma definitiva.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "expulsar",
+      "proibir",
+      "excluir"
+    ],
+    "examples": [
+      "A escola baniu o uso de celulares nas provas.",
+      "O clube baniu os torcedores violentos.",
+      "Banimos os copos descartáveis da cantina."
+    ]
+  },
+  {
+    "id": "demolir",
+    "infinitive": "demolir",
+    "conjugation": 3,
+    "flexion": "defectivo",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Pôr abaixo uma construção.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "derrubar",
+      "destruir",
+      "arrasar"
+    ],
+    "examples": [
+      "A prefeitura demoliu o prédio abandonado.",
+      "Demolimos o muro velho do quintal.",
+      "Os operários demolirão a ponte antiga."
+    ]
+  },
+  {
+    "id": "explodir",
+    "infinitive": "explodir",
+    "conjugation": 3,
+    "flexion": "defectivo",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Arrebentar com estrondo; também manifestar uma emoção de repente.",
+    "transitivity": "intransitivo e transitivo direto",
+    "synonyms": [
+      "estourar",
+      "detonar",
+      "irromper"
+    ],
+    "examples": [
+      "Os fogos explodiram no céu na virada do ano.",
+      "A plateia explodiu em aplausos.",
+      "O balão explode se você encher demais."
+    ]
+  },
+  {
+    "id": "reaver",
+    "infinitive": "reaver",
+    "conjugation": 2,
+    "flexion": "defectivo",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Recuperar o que se havia perdido ou cedido.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "recuperar",
+      "readquirir",
+      "resgatar"
+    ],
+    "examples": [
+      "Ele reouve os documentos perdidos.",
+      "Nós reavemos o dinheiro após a reclamação.",
+      "Se você reouver a carteira, avise-me."
+    ]
+  },
+  {
+    "id": "precaver",
+    "infinitive": "precaver",
+    "conjugation": 2,
+    "flexion": "defectivo",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Tomar cuidado com antecedência para evitar um mal.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "prevenir",
+      "acautelar",
+      "resguardar"
+    ],
+    "examples": [
+      "Nós nos precavemos levando guarda-chuva.",
+      "Ela se precaveu antes da viagem.",
+      "Os alunos precaviam-se estudando com antecedência."
+    ]
+  },
+  {
+    "id": "adequar",
+    "infinitive": "adequar",
+    "conjugation": 1,
+    "flexion": "defectivo",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Tornar adequado; ajustar algo a uma necessidade.",
+    "transitivity": "transitivo direto e indireto e pronominal",
+    "synonyms": [
+      "ajustar",
+      "adaptar",
+      "conformar"
+    ],
+    "examples": [
+      "Adequamos o projeto às novas regras.",
+      "A empresa adequou o prédio para cadeirantes.",
+      "Os horários se adequaram à rotina da turma."
+    ]
+  },
+  {
+    "id": "chover",
+    "infinitive": "chover",
+    "conjugation": 2,
+    "flexion": "defectivo",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Cair água das nuvens em forma de gotas.",
+    "transitivity": "impessoal e intransitivo",
+    "synonyms": [
+      "garoar",
+      "chuviscar",
+      "precipitar"
+    ],
+    "examples": [
+      "Choveu bastante ontem à noite.",
+      "Talvez chova no fim de semana.",
+      "Choviam perguntas depois da palestra."
+    ]
+  },
+  {
+    "id": "nevar",
+    "infinitive": "nevar",
+    "conjugation": 1,
+    "flexion": "defectivo",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Cair neve.",
+    "transitivity": "impessoal",
+    "synonyms": [
+      "cair neve"
+    ],
+    "examples": [
+      "Nevou na serra catarinense no inverno passado.",
+      "Raramente neva no Brasil.",
+      "Se nevar amanhã, faremos um boneco de neve."
+    ]
+  },
+  {
+    "id": "ventar",
+    "infinitive": "ventar",
+    "conjugation": 1,
+    "flexion": "defectivo",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Soprar o vento com força.",
+    "transitivity": "impessoal",
+    "synonyms": [
+      "soprar",
+      "ventanear"
+    ],
+    "examples": [
+      "Ventou muito durante a tarde.",
+      "Se ventar amanhã, vamos soltar pipa.",
+      "Venta bastante no litoral do Ceará."
+    ]
+  },
+  {
+    "id": "latir",
+    "infinitive": "latir",
+    "conjugation": 3,
+    "flexion": "defectivo",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Dar latidos, como faz o cão.",
+    "transitivity": "intransitivo",
+    "synonyms": [
+      "ladrar",
+      "ganir",
+      "uivar"
+    ],
+    "examples": [
+      "O cachorro do vizinho latiu a noite toda.",
+      "Os cães latem quando a campainha toca.",
+      "O filhote latia para a própria sombra."
+    ]
+  },
+  {
+    "id": "doer",
+    "infinitive": "doer",
+    "conjugation": 2,
+    "flexion": "defectivo",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Causar dor física ou sofrimento.",
+    "transitivity": "intransitivo e transitivo indireto",
+    "synonyms": [
+      "magoar",
+      "afligir",
+      "incomodar"
+    ],
+    "examples": [
+      "Minha cabeça dói desde cedo.",
+      "Os pés doeram depois da caminhada.",
+      "Doía-lhe ver o parque abandonado."
+    ]
+  },
+  {
+    "id": "soer",
+    "infinitive": "soer",
+    "conjugation": 2,
+    "flexion": "defectivo",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Costumar, ter por hábito (uso literário).",
+    "transitivity": "intransitivo",
+    "synonyms": [
+      "costumar",
+      "usar",
+      "acostumar"
+    ],
+    "examples": [
+      "Como sói acontecer, o trem atrasou.",
+      "Soía chover muito naquela época do ano.",
+      "Soíam reunir-se na praça aos domingos."
+    ]
+  },
+  {
+    "id": "viger",
+    "infinitive": "viger",
+    "conjugation": 2,
+    "flexion": "defectivo",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Estar em vigor; ter validade.",
+    "transitivity": "intransitivo",
+    "synonyms": [
+      "vigorar",
+      "valer",
+      "imperar"
+    ],
+    "examples": [
+      "A nova lei vige desde janeiro.",
+      "As regras antigas vigeram por décadas.",
+      "O contrato vigia até dezembro."
+    ]
+  },
+  {
+    "id": "exaurir",
+    "infinitive": "exaurir",
+    "conjugation": 3,
+    "flexion": "defectivo",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Esgotar completamente; cansar ao extremo.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "esgotar",
+      "extenuar",
+      "esvaziar"
+    ],
+    "examples": [
+      "A longa caminhada exauriu os turistas.",
+      "Os recursos do poço se exauriram.",
+      "O calor exauria até os mais animados."
+    ]
+  },
+  {
+    "id": "florir",
+    "infinitive": "florir",
+    "conjugation": 3,
+    "flexion": "defectivo",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Cobrir-se de flores; também prosperar.",
+    "transitivity": "intransitivo e transitivo direto",
+    "synonyms": [
+      "florescer",
+      "desabrochar",
+      "prosperar"
+    ],
+    "examples": [
+      "Os ipês floriram em agosto.",
+      "O jardim floriu cedo este ano.",
+      "As cerejeiras florirão em setembro."
+    ]
+  },
+  {
+    "id": "ruir",
+    "infinitive": "ruir",
+    "conjugation": 3,
+    "flexion": "defectivo",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Desabar, cair em ruínas.",
+    "transitivity": "intransitivo",
+    "synonyms": [
+      "desabar",
+      "desmoronar",
+      "cair"
+    ],
+    "examples": [
+      "O velho muro ruiu com a chuva forte.",
+      "Os planos ruíram depois do imprevisto.",
+      "A casa abandonada ruía aos poucos."
+    ]
+  },
+  {
+    "id": "aceitar",
+    "infinitive": "aceitar",
+    "conjugation": 1,
+    "flexion": "abundante",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Receber de bom grado o que é oferecido; também concordar.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "acolher",
+      "admitir",
+      "consentir"
+    ],
+    "examples": [
+      "O professor tinha aceitado o trabalho atrasado.",
+      "O convite foi aceito por todos.",
+      "Aceite minhas desculpas."
+    ]
+  },
+  {
+    "id": "entregar",
+    "infinitive": "entregar",
+    "conjugation": 1,
+    "flexion": "abundante",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Passar algo às mãos de alguém.",
+    "transitivity": "transitivo direto, transitivo direto e indireto e pronominal",
+    "synonyms": [
+      "dar",
+      "passar",
+      "confiar"
+    ],
+    "examples": [
+      "O carteiro havia entregado a encomenda.",
+      "A redação foi entregue no prazo.",
+      "Entregue o bilhete à sua mãe."
+    ]
+  },
+  {
+    "id": "expressar",
+    "infinitive": "expressar",
+    "conjugation": 1,
+    "flexion": "abundante",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Manifestar por palavras, gestos ou arte.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "exprimir",
+      "manifestar",
+      "comunicar"
+    ],
+    "examples": [
+      "Ela tinha expressado sua opinião com clareza.",
+      "O desejo expresso no texto é a paz.",
+      "Expresse seus sentimentos sem medo."
+    ]
+  },
+  {
+    "id": "expulsar",
+    "infinitive": "expulsar",
+    "conjugation": 1,
+    "flexion": "abundante",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Fazer sair à força; pôr para fora.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "expelir",
+      "banir",
+      "afastar"
+    ],
+    "examples": [
+      "O juiz havia expulsado dois jogadores.",
+      "O jogador foi expulso no segundo tempo.",
+      "Expulse o mosquito com o leque."
+    ]
+  },
+  {
+    "id": "imprimir",
+    "infinitive": "imprimir",
+    "conjugation": 3,
+    "flexion": "abundante",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Reproduzir textos ou imagens em papel por meio de máquina; também transmitir uma marca.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "estampar",
+      "gravar",
+      "publicar"
+    ],
+    "examples": [
+      "Já tínhamos imprimido as provas.",
+      "O livro foi impresso em São Paulo.",
+      "Imprima duas cópias, por favor."
+    ]
+  },
+  {
+    "id": "morrer",
+    "infinitive": "morrer",
+    "conjugation": 2,
+    "flexion": "abundante",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Deixar de viver; também acabar ou extinguir-se.",
+    "transitivity": "intransitivo",
+    "synonyms": [
+      "falecer",
+      "perecer",
+      "expirar"
+    ],
+    "examples": [
+      "A planta tinha morrido por falta de água.",
+      "As folhas mortas cobriam a calçada.",
+      "O assunto morreu ali mesmo."
+    ]
+  },
+  {
+    "id": "matar",
+    "infinitive": "matar",
+    "conjugation": 1,
+    "flexion": "abundante",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Tirar a vida; em sentido figurado, satisfazer ou eliminar algo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "saciar",
+      "eliminar",
+      "exterminar"
+    ],
+    "examples": [
+      "Matei a sede com água de coco.",
+      "Tínhamos matado a saudade dos avós.",
+      "Os mosquitos foram mortos pelo inseticida."
+    ]
+  },
+  {
+    "id": "eleger",
+    "infinitive": "eleger",
+    "conjugation": 2,
+    "flexion": "abundante",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Escolher por meio de votação; também preferir.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "escolher",
+      "votar",
+      "selecionar"
+    ],
+    "examples": [
+      "A turma tinha elegido a representante.",
+      "O prefeito eleito tomou posse ontem.",
+      "Elegeremos o novo grêmio na sexta."
+    ]
+  },
+  {
+    "id": "prender",
+    "infinitive": "prender",
+    "conjugation": 2,
+    "flexion": "abundante",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Segurar ou fixar algo; também privar da liberdade.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "fixar",
+      "amarrar",
+      "deter"
+    ],
+    "examples": [
+      "Ela havia prendido o cabelo com uma fivela.",
+      "O cachorro ficou preso no quintal.",
+      "Prenda o cartaz com fita adesiva."
+    ]
+  },
+  {
+    "id": "acender",
+    "infinitive": "acender",
+    "conjugation": 2,
+    "flexion": "abundante",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Fazer arder ou brilhar; ligar uma luz.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "ligar",
+      "inflamar",
+      "atear"
+    ],
+    "examples": [
+      "Eu tinha acendido as velas do bolo.",
+      "A luz da sala ficou acesa a noite toda.",
+      "Acenda a lanterna, está escuro."
+    ]
+  },
+  {
+    "id": "suspender",
+    "infinitive": "suspender",
+    "conjugation": 2,
+    "flexion": "abundante",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Pendurar algo no alto; também interromper por um tempo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "interromper",
+      "pendurar",
+      "adiar"
+    ],
+    "examples": [
+      "A escola havia suspendido as aulas por causa da chuva.",
+      "O jogo foi suspenso pelo árbitro.",
+      "Suspendam a votação até amanhã."
+    ]
+  },
+  {
+    "id": "extinguir",
+    "infinitive": "extinguir",
+    "conjugation": 3,
+    "flexion": "abundante",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Fazer desaparecer; apagar o fogo; também abolir.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "apagar",
+      "eliminar",
+      "exterminar"
+    ],
+    "examples": [
+      "Os bombeiros tinham extinguido o fogo rapidamente.",
+      "O dodô é uma ave extinta.",
+      "A lei extinguiu a taxa antiga."
+    ]
+  },
+  {
+    "id": "soltar",
+    "infinitive": "soltar",
+    "conjugation": 1,
+    "flexion": "abundante",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Deixar livre o que estava preso; também lançar.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "libertar",
+      "liberar",
+      "desprender"
+    ],
+    "examples": [
+      "O menino tinha soltado a pipa no vento.",
+      "O cachorro está solto no quintal.",
+      "Solte o freio de mão antes de sair."
+    ]
+  },
+  {
+    "id": "salvar",
+    "infinitive": "salvar",
+    "conjugation": 1,
+    "flexion": "abundante",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Livrar de perigo; também guardar um arquivo.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "resgatar",
+      "livrar",
+      "proteger"
+    ],
+    "examples": [
+      "O salva-vidas tinha salvado o banhista.",
+      "Graças ao aviso, todos foram salvos.",
+      "Salve o arquivo antes de fechar."
+    ]
+  },
+  {
+    "id": "ganhar",
+    "infinitive": "ganhar",
+    "conjugation": 1,
+    "flexion": "abundante",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Receber algo; também vencer uma disputa.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "receber",
+      "obter",
+      "vencer"
+    ],
+    "examples": [
+      "Tínhamos ganhado o torneio no ano anterior.",
+      "O jogo estava ganho no primeiro tempo.",
+      "Ganhei um livro de aniversário."
+    ]
+  },
+  {
+    "id": "pagar",
+    "infinitive": "pagar",
+    "conjugation": 1,
+    "flexion": "abundante",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Dar dinheiro em troca de algo ou para quitar uma dívida.",
+    "transitivity": "transitivo direto e transitivo direto e indireto",
+    "synonyms": [
+      "quitar",
+      "saldar",
+      "remunerar"
+    ],
+    "examples": [
+      "Ele já tinha pagado a conta.",
+      "A mensalidade foi paga em dia.",
+      "Pague o lanche na cantina."
+    ]
+  },
+  {
+    "id": "limpar",
+    "infinitive": "limpar",
+    "conjugation": 1,
+    "flexion": "abundante",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Tirar a sujeira de algo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "lavar",
+      "higienizar",
+      "assear"
+    ],
+    "examples": [
+      "Tínhamos limpado a sala antes da festa.",
+      "A cozinha já está limpa.",
+      "Limpe os pés no capacho."
+    ]
+  },
+  {
+    "id": "encher",
+    "infinitive": "encher",
+    "conjugation": 2,
+    "flexion": "abundante",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Tornar cheio; ocupar todo o espaço.",
+    "transitivity": "transitivo direto, transitivo direto e indireto e pronominal",
+    "synonyms": [
+      "completar",
+      "lotar",
+      "abarrotar"
+    ],
+    "examples": [
+      "Ela tinha enchido os balões para a festa.",
+      "O copo está cheio de suco.",
+      "Encha a garrafa de água antes do treino."
+    ]
+  },
+  {
+    "id": "fritar",
+    "infinitive": "fritar",
+    "conjugation": 1,
+    "flexion": "abundante",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Cozinhar em óleo ou gordura quente.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "frigir",
+      "dourar",
+      "tostar"
+    ],
+    "examples": [
+      "Meu pai tinha fritado os pastéis.",
+      "Prefiro o ovo frito ao cozido.",
+      "Fritemos as batatas com pouco óleo."
+    ]
+  },
+  {
+    "id": "aprazer",
+    "infinitive": "aprazer",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Causar prazer; ser agradável a alguém.",
+    "transitivity": "transitivo indireto",
+    "synonyms": [
+      "agradar",
+      "deleitar",
+      "contentar"
+    ],
+    "examples": [
+      "Apraz-me receber os amigos em casa.",
+      "O resultado aprouve a todos.",
+      "Faça como lhe aprouver."
+    ]
+  },
+  {
+    "id": "jazer",
+    "infinitive": "jazer",
+    "conjugation": 2,
+    "flexion": "irregular",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Estar deitado ou imóvel; também estar sepultado.",
+    "transitivity": "intransitivo",
+    "synonyms": [
+      "repousar",
+      "estar estendido",
+      "encontrar-se"
+    ],
+    "examples": [
+      "O livro jazia esquecido na estante.",
+      "Aqui jaz um grande poeta.",
+      "As folhas jazem no chão depois da ventania."
+    ]
+  },
+  {
+    "id": "fruir",
+    "infinitive": "fruir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Desfrutar com prazer; aproveitar.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "desfrutar",
+      "usufruir",
+      "gozar"
+    ],
+    "examples": [
+      "Fruímos cada minuto das férias.",
+      "Ela frui a paz do campo.",
+      "Os visitantes fruíam a vista do mirante."
+    ]
+  },
+  {
+    "id": "auferir",
+    "infinitive": "auferir",
+    "conjugation": 3,
+    "flexion": "irregular",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Obter como lucro ou benefício.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "obter",
+      "colher",
+      "lucrar"
+    ],
+    "examples": [
+      "A empresa auferiu bons lucros este ano.",
+      "Aufiro grande satisfação com o trabalho.",
+      "Os sócios auferirão os resultados em dezembro."
+    ]
+  },
+  {
+    "id": "coadunar",
+    "infinitive": "coadunar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Juntar de forma harmoniosa; estar em conformidade.",
+    "transitivity": "transitivo direto e indireto e pronominal",
+    "synonyms": [
+      "harmonizar",
+      "conciliar",
+      "combinar"
+    ],
+    "examples": [
+      "Suas atitudes não se coadunam com seu discurso.",
+      "O projeto coadunou interesses diferentes.",
+      "Coadunemos as propostas em um só texto."
+    ]
+  },
+  {
+    "id": "dirimir",
+    "infinitive": "dirimir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Resolver de forma definitiva uma dúvida ou disputa.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "resolver",
+      "solucionar",
+      "esclarecer"
+    ],
+    "examples": [
+      "A professora dirimiu todas as dúvidas.",
+      "O acordo dirimirá o conflito entre os vizinhos.",
+      "Dirimimos a questão em uma conversa."
+    ]
+  },
+  {
+    "id": "elidir",
+    "infinitive": "elidir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Suprimir, eliminar; em gramática, omitir um som.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "suprimir",
+      "eliminar",
+      "omitir"
+    ],
+    "examples": [
+      "Na forma d'água, elidimos a vogal da preposição.",
+      "O poeta elidiu uma sílaba para manter o ritmo.",
+      "A nova prova elide qualquer suspeita."
+    ]
+  },
+  {
+    "id": "obliterar",
+    "infinitive": "obliterar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Fazer desaparecer aos poucos; apagar da memória.",
+    "transitivity": "transitivo direto e pronominal",
+    "synonyms": [
+      "apagar",
+      "eliminar",
+      "suprimir"
+    ],
+    "examples": [
+      "O tempo obliterou as inscrições da pedra.",
+      "A areia oblitera as pegadas na praia.",
+      "Certas lembranças se obliteraram com os anos."
+    ]
+  },
+  {
+    "id": "pugnar",
+    "infinitive": "pugnar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Lutar ou empenhar-se em defesa de algo.",
+    "transitivity": "transitivo indireto e intransitivo",
+    "synonyms": [
+      "lutar",
+      "batalhar",
+      "defender"
+    ],
+    "examples": [
+      "Pugnamos por uma escola mais inclusiva.",
+      "O advogado pugnou pelos direitos do cliente.",
+      "Ela sempre pugnará pela justiça."
+    ]
+  },
+  {
+    "id": "refutar",
+    "infinitive": "refutar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Contestar com argumentos; provar que algo é falso.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "contestar",
+      "rebater",
+      "contradizer"
+    ],
+    "examples": [
+      "Refutei a tese do adversário no debate.",
+      "Os dados refutam essa teoria.",
+      "Refute os argumentos com exemplos."
+    ]
+  },
+  {
+    "id": "sobrestar",
+    "infinitive": "sobrestar",
+    "conjugation": 1,
+    "flexion": "irregular",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Suspender o andamento de algo; parar temporariamente.",
+    "transitivity": "transitivo direto e transitivo indireto",
+    "synonyms": [
+      "suspender",
+      "sustar",
+      "interromper"
+    ],
+    "examples": [
+      "O juiz sobresteve o processo.",
+      "A diretoria sobrestará a decisão até nova reunião.",
+      "Sobrestivemos o assunto até o fim do mês."
+    ]
+  },
+  {
+    "id": "urdir",
+    "infinitive": "urdir",
+    "conjugation": 3,
+    "flexion": "regular",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Tecer os fios de um tecido; também tramar ou planejar em segredo.",
+    "transitivity": "transitivo direto",
+    "synonyms": [
+      "tramar",
+      "tecer",
+      "maquinar"
+    ],
+    "examples": [
+      "A tecelã urdiu um tapete colorido.",
+      "Os amigos urdiram uma festa surpresa.",
+      "O autor urde a trama com muito suspense."
+    ]
+  },
+  {
+    "id": "vicejar",
+    "infinitive": "vicejar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Crescer com viço; desenvolver-se com vigor.",
+    "transitivity": "intransitivo",
+    "synonyms": [
+      "florescer",
+      "prosperar",
+      "desabrochar"
+    ],
+    "examples": [
+      "As plantas vicejam depois da chuva.",
+      "A horta vicejou na primavera.",
+      "Novas ideias vicejavam na turma."
+    ]
+  },
+  {
+    "id": "grassar",
+    "infinitive": "grassar",
+    "conjugation": 1,
+    "flexion": "regular",
+    "rarity": "lendario",
+    "level": 4,
+    "definition": "Alastrar-se, propagar-se (em geral algo ruim).",
+    "transitivity": "intransitivo",
+    "synonyms": [
+      "alastrar-se",
+      "propagar-se",
+      "espalhar-se"
+    ],
+    "examples": [
+      "A gripe grassava na cidade naquele inverno.",
+      "Boatos grassam nas redes sociais.",
+      "Uma onda de otimismo grassou entre os alunos."
+    ]
+  }
+]
